@@ -1,0 +1,970 @@
+Timestamp,Date,Overall Mood Rating,Mood Intensity,Positive Affect (PANAS + POMS “Vigor/Serenity”),Negative Affect (PANAS + POMS “Tension/Depression/Anger/Fatigue”),Who were you with?,Where were you?,What were you mainly doing?
+12/1/2025 11:04:12,12/1/2025 11:00:00,Positive,3,"Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/1/2025 12:01:18,12/1/2025 12:00:00,Positive,3,"Cheerful, Calm",,Family,Home,"Entertainment (games, videos, etc.)"
+12/1/2025 13:01:45,12/1/2025 13:00:00,Positive,2,"Calm, Relaxed",,Family,Home,Eating
+12/1/2025 14:01:29,12/1/2025 14:00:00,Neutral,2,Calm,,Family,Home,Chores
+12/1/2025 15:46:59,12/1/2025 15:00:00,Neutral,1,Calm,,Strangers,Transit,Commuting
+12/1/2025 16:02:07,12/1/2025 16:00:00,Neutral,4,Calm,Irritated,Strangers,Transit,Commuting
+12/1/2025 17:03:51,12/1/2025 17:00:00,Positive,4,Cheerful,,Classmates,School,Socializing
+12/1/2025 18:01:19,12/1/2025 18:00:00,Neutral,5,,"Stressed, Anxious",Classmates,School,Studying
+12/1/2025 19:01:07,12/1/2025 19:00:00,Negative,3,,"Stressed, Anxious, Tired, Irritated",Classmates,School,Studying
+12/1/2025 20:02:28,12/1/2025 20:00:00,Very Positive,5,"Cheerful, Energetic",,Friends,Public Place,Eating
+12/1/2025 22:06:22,12/1/2025 21:00:00,Very Negative,5,,"Stressed, Irritated",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/1/2025 22:09:10,12/1/2025 22:00:00,Very Negative,5,,"Stressed, Irritated",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/1/2025 23:13:22,12/1/2025 23:00:00,Very Positive,5,"Cheerful, Content, Energetic",Anxious,Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/2/2025 0:49:08,12/2/2025 0:00:00,Positive,4,"Cheerful, Content, Energetic","Stressed, Anxious, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/2/2025 1:35:31,12/2/2025 1:00:00,Negative,4,,"Stressed, Sad, Tired, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/2/2025 2:01:38,12/2/2025 2:00:00,Neutral,3,"Calm, Content",Tired,Family,Home,Resting
+12/2/2025 9:01:34,12/2/2025 9:00:00,Positive,2,"Calm, Content, Relaxed",,Family,Home,Chores
+12/2/2025 10:08:50,12/2/2025 10:00:00,Neutral,3,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/2/2025 11:27:57,12/2/2025 11:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/2/2025 12:02:16,12/2/2025 12:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/2/2025 13:18:36,12/2/2025 13:00:00,Neutral,4,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/2/2025 14:01:20,12/2/2025 14:00:00,Positive,4,"Cheerful, Motivated",,Family,Home,Socializing
+12/2/2025 15:03:03,12/2/2025 15:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,Eating
+12/2/2025 23:01:07,12/2/2025 23:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 0:01:13,12/3/2025 0:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 1:04:47,12/3/2025 1:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 2:01:18,12/3/2025 2:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 3:01:08,12/3/2025 3:00:00,Neutral,4,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 4:01:50,12/3/2025 4:00:00,Neutral,2,"Calm, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 5:05:07,12/3/2025 5:00:00,Positive,4,"Content, Energetic, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 6:01:06,12/3/2025 6:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 7:02:22,12/3/2025 7:00:00,Neutral,2,"Calm, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 8:00:53,12/3/2025 8:00:00,Positive,4,"Cheerful, Motivated, Relaxed",,Family,Home,Eating
+12/3/2025 9:02:32,12/3/2025 9:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 10:01:05,12/3/2025 10:00:00,Neutral,2,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 11:15:20,12/3/2025 11:00:00,Very Positive,5,"Cheerful, Energetic, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 12:00:56,12/3/2025 12:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/3/2025 13:09:59,12/3/2025 13:00:00,Neutral,2,Calm,Tired,Alone,Public Place,Commuting
+12/3/2025 14:11:05,12/3/2025 14:00:00,Neutral,1,,Tired,Family,Home,Chores
+12/3/2025 15:01:17,12/3/2025 15:00:00,Neutral,3,Relaxed,,Family,Home,Resting
+12/4/2025 2:01:17,12/4/2025 2:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,Resting
+12/4/2025 3:00:43,12/4/2025 3:00:00,Positive,4,"Cheerful, Content, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/4/2025 4:02:39,12/4/2025 4:00:00,Positive,4,"Energetic, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/4/2025 5:01:04,12/4/2025 5:00:00,Positive,3,"Cheerful, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/4/2025 6:01:34,12/4/2025 6:00:00,Positive,4,"Energetic, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/4/2025 7:01:16,12/4/2025 7:00:00,Positive,2,"Calm, Content, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/4/2025 8:12:42,12/4/2025 8:00:00,Positive,4,"Calm, Content, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/4/2025 9:17:44,12/4/2025 9:00:00,Positive,3,"Calm, Motivated",Sad,Family,Home,"Entertainment (games, videos, etc.)"
+12/4/2025 10:00:52,12/4/2025 10:00:00,Negative,4,,Irritated,Family,Home,Chores
+12/4/2025 14:48:23,12/4/2025 14:00:00,Positive,4,"Cheerful, Motivated",,Alone,Home,Chores
+12/4/2025 15:08:11,12/4/2025 15:00:00,Positive,4,"Cheerful, Content, Motivated",,Alone,Home,Opening Parcel
+12/4/2025 16:01:20,12/4/2025 16:00:00,Neutral,2,"Content, Motivated",,Strangers,Transit,Commuting
+12/4/2025 17:24:37,12/4/2025 17:00:00,Positive,3,"Cheerful, Energetic",,Friends,Public Place,Socializing
+12/4/2025 18:00:47,12/4/2025 18:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Classmates,School,Socializing
+12/4/2025 19:04:27,12/4/2025 19:00:00,Positive,3,"Cheerful, Energetic, Motivated",,Classmates,School,Studying
+12/4/2025 20:00:47,12/4/2025 20:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Classmates,Public Place,Socializing
+12/4/2025 21:11:41,12/4/2025 21:00:00,Very Positive,5,"Cheerful, Energetic",,Friends,Public Place,Socializing
+12/4/2025 23:00:02,12/4/2025 22:00:00,Very Positive,5,"Cheerful, Energetic",,Friends,Public Place,"Entertainment (games, videos, etc.)"
+12/4/2025 23:00:34,12/4/2025 23:00:00,Very Positive,5,"Cheerful, Energetic",,Friends,Public Place,"Entertainment (games, videos, etc.)"
+12/5/2025 1:07:10,12/5/2025 0:00:00,Very Positive,5,"Cheerful, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+12/5/2025 1:09:17,12/5/2025 1:00:00,Positive,5,"Content, Motivated, Relaxed",Tired,Strangers,Transit,Commuting
+12/5/2025 2:01:17,12/5/2025 2:00:00,Neutral,2,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+12/5/2025 9:00:58,12/5/2025 9:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,Resting
+12/5/2025 10:01:43,12/5/2025 10:00:00,Neutral,3,"Calm, Content",,Alone,Public Place,Commuting
+12/5/2025 11:36:41,12/5/2025 11:00:00,Positive,4,"Cheerful, Content, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/5/2025 12:02:59,12/5/2025 12:00:00,Positive,3,"Content, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/5/2025 13:01:29,12/5/2025 13:00:00,Positive,5,"Cheerful, Calm, Content, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/5/2025 14:00:58,12/5/2025 14:00:00,Positive,4,"Cheerful, Content, Motivated",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+12/5/2025 15:01:24,12/5/2025 15:00:00,Negative,4,,"Anxious, Sad, Irritated",Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 0:01:14,12/6/2025 0:00:00,Neutral,1,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 1:01:05,12/6/2025 1:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 2:01:27,12/6/2025 2:00:00,Positive,4,"Cheerful, Content",,Alone,Home,Resting
+12/6/2025 3:01:27,12/6/2025 3:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 4:01:15,12/6/2025 4:00:00,Neutral,2,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 5:05:19,12/6/2025 5:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 6:00:59,12/6/2025 6:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 7:01:20,12/6/2025 7:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 8:01:21,12/6/2025 8:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 9:09:44,12/6/2025 9:00:00,Positive,4,"Cheerful, Calm, Content",,Family,Home,Eating
+12/6/2025 10:11:33,12/6/2025 10:00:00,Neutral,2,"Motivated, Relaxed",,Family,Home,Resting
+12/6/2025 11:04:56,12/6/2025 11:00:00,Neutral,2,"Content, Relaxed",,Family,Home,Studying
+12/6/2025 12:07:41,12/6/2025 12:00:00,Neutral,3,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 13:00:47,12/6/2025 13:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 14:01:04,12/6/2025 14:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/6/2025 15:18:07,12/6/2025 15:00:00,Very Positive,5,"Cheerful, Content, Motivated",,Family,Home,Got payment for taking care of cousin’s cats
+12/6/2025 16:07:15,12/6/2025 16:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Eating
+12/6/2025 17:00:57,12/6/2025 17:00:00,Positive,1,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 3:08:03,12/7/2025 3:00:00,Neutral,2,Relaxed,,Family,Home,Resting
+12/7/2025 4:00:56,12/7/2025 4:00:00,Neutral,3,Calm,,Family,Home,Resting
+12/7/2025 5:00:42,12/7/2025 5:00:00,Neutral,4,"Calm, Relaxed",,Alone,Home,Resting
+12/7/2025 6:36:49,12/7/2025 6:00:00,Negative,4,,Sad,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 7:04:00,12/7/2025 7:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 8:40:56,12/7/2025 8:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 9:01:09,12/7/2025 9:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 10:02:38,12/7/2025 10:00:00,Neutral,3,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 11:03:34,12/7/2025 11:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 12:01:05,12/7/2025 12:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 13:01:04,12/7/2025 13:00:00,Positive,4,"Cheerful, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 14:13:19,12/7/2025 14:00:00,Neutral,3,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 15:05:58,12/7/2025 15:00:00,Neutral,3,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 16:18:51,12/7/2025 16:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 17:00:59,12/7/2025 17:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 21:00:52,12/7/2025 21:00:00,Neutral,2,Relaxed,,Family,Home,Resting
+12/7/2025 22:05:34,12/7/2025 22:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/7/2025 23:01:34,12/7/2025 23:00:00,Negative,4,,Sad,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 0:01:50,12/8/2025 0:00:00,Neutral,3,Content,,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 1:02:25,12/8/2025 1:00:00,Neutral,2,"Content, Relaxed",,Family,Home,Eating
+12/8/2025 8:01:35,12/8/2025 8:00:00,Neutral,3,Relaxed,,Family,Home,Resting
+12/8/2025 9:05:36,12/8/2025 9:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 10:01:56,12/8/2025 10:00:00,Positive,4,"Cheerful, Content, Motivated",,Family,Home,Eating
+12/8/2025 11:00:57,12/8/2025 11:00:00,Positive,4,"Cheerful, Calm, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 12:11:45,12/8/2025 12:00:00,Neutral,3,"Content, Motivated",,Alone,Home,Chores
+12/8/2025 13:14:14,12/8/2025 13:00:00,Positive,2,"Calm, Motivated",,Alone,Public Place,Chores
+12/8/2025 14:01:13,12/8/2025 14:00:00,Positive,4,"Calm, Content, Motivated, Relaxed",,Family,Home,Eating
+12/8/2025 15:01:39,12/8/2025 15:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 16:27:56,12/8/2025 16:00:00,Positive,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 17:19:20,12/8/2025 17:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 18:00:42,12/8/2025 18:00:00,Neutral,3,Content,,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 19:14:08,12/8/2025 19:00:00,Neutral,3,Content,,Family,Home,Eating
+12/8/2025 20:01:05,12/8/2025 20:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 21:01:06,12/8/2025 21:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 22:01:06,12/8/2025 22:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/8/2025 23:02:40,12/8/2025 23:00:00,Very Positive,5,"Cheerful, Energetic, Motivated",,Alone,Home,Chores
+12/9/2025 0:00:53,12/9/2025 0:00:00,Neutral,3,"Content, Relaxed",,Family,Home,Resting
+12/9/2025 7:07:05,12/9/2025 7:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 8:17:49,12/9/2025 8:00:00,Neutral,3,Relaxed,,Family,Home,Eating
+12/9/2025 9:18:20,12/9/2025 9:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 10:01:00,12/9/2025 10:00:00,Positive,3,"Calm, Content, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 11:11:27,12/9/2025 11:00:00,Positive,5,"Energetic, Motivated","Stressed, Anxious",Family,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 12:11:07,12/9/2025 12:00:00,Neutral,3,Calm,,Alone,Home,Chores
+12/9/2025 13:09:16,12/9/2025 13:00:00,Positive,4,"Cheerful, Energetic, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 14:07:46,12/9/2025 14:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 15:03:02,12/9/2025 15:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 16:07:42,12/9/2025 16:00:00,Positive,4,"Cheerful, Content, Relaxed",,Alone,Home,Eating
+12/9/2025 17:02:17,12/9/2025 17:00:00,Positive,4,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 18:01:03,12/9/2025 18:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 19:07:10,12/9/2025 19:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/9/2025 20:00:58,12/9/2025 20:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,Resting
+12/9/2025 23:03:01,12/9/2025 23:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 0:01:54,12/10/2025 0:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 1:01:06,12/10/2025 1:00:00,Neutral,2,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 2:09:58,12/10/2025 2:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 3:00:36,12/10/2025 3:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 12:02:03,12/10/2025 12:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 13:02:48,12/10/2025 13:00:00,Positive,4,"Cheerful, Motivated",,Alone,Public Place,Online Shopping
+12/10/2025 14:00:41,12/10/2025 14:00:00,Neutral,3,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 15:01:04,12/10/2025 15:00:00,Positive,4,Calm,,Family,Home,Eating
+12/10/2025 16:05:47,12/10/2025 16:00:00,Neutral,3,"Energetic, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 17:00:51,12/10/2025 17:00:00,Neutral,3,"Content, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 18:00:59,12/10/2025 18:00:00,Positive,4,"Cheerful, Content, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/10/2025 19:00:49,12/10/2025 19:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Resting
+12/11/2025 0:01:44,12/11/2025 0:00:00,Neutral,3,Calm,,Alone,Home,Chores
+12/11/2025 1:02:27,12/11/2025 1:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/11/2025 2:01:20,12/11/2025 2:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,Resting
+12/11/2025 3:00:43,12/11/2025 3:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,Eating
+12/11/2025 4:08:42,12/11/2025 4:00:00,Neutral,3,Relaxed,,Family,Home,Resting
+12/11/2025 5:02:02,12/11/2025 5:00:00,Neutral,3,"Content, Relaxed",,Family,Home,Resting
+12/11/2025 10:10:09,12/11/2025 10:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",,Family,Home,Waiting for parcel
+12/11/2025 11:01:23,12/11/2025 11:00:00,Very Positive,5,"Cheerful, Energetic, Motivated",,Alone,Home,Waiting for parcel
+12/11/2025 12:03:33,12/11/2025 12:00:00,Positive,4,"Cheerful, Motivated, Relaxed",,Family,Home,Waiting for parcel
+12/11/2025 13:01:11,12/11/2025 13:00:00,Positive,5,"Cheerful, Energetic, Motivated",,Family,Home,Waiting for parcel
+12/11/2025 14:01:33,12/11/2025 14:00:00,Negative,5,,"Anxious, Sad",Family,Home,Waiting for parcel
+12/11/2025 15:01:16,12/11/2025 15:00:00,Negative,5,,"Anxious, Irritated",Family,Home,Waiting for parcel
+12/11/2025 16:07:07,12/11/2025 16:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",,Alone,Transit,Received parcel
+12/11/2025 17:30:02,12/11/2025 17:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Classmates,School,Socializing
+12/11/2025 18:08:23,12/11/2025 18:00:00,Positive,4,"Cheerful, Content, Motivated",,Classmates,School,Studying
+12/11/2025 19:05:32,12/11/2025 19:00:00,Positive,4,"Cheerful, Content, Motivated",,Classmates,School,Socializing
+12/11/2025 20:03:49,12/11/2025 20:00:00,Positive,3,"Cheerful, Content, Energetic, Motivated",,Friends,Public Place,Socializing
+12/11/2025 21:53:29,12/11/2025 21:00:00,Positive,3,"Cheerful, Content, Energetic, Motivated",,Friends,Public Place,"Entertainment (games, videos, etc.)"
+12/11/2025 22:30:41,12/11/2025 22:00:00,Positive,4,"Cheerful, Motivated","Stressed, Anxious",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/11/2025 23:01:21,12/11/2025 23:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated","Stressed, Anxious",Friends,Public Place,"Entertainment (games, videos, etc.)"
+12/12/2025 0:17:29,12/12/2025 0:00:00,Negative,4,,"Stressed, Anxious, Sad, Tired, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/12/2025 1:06:50,12/12/2025 1:00:00,Very Positive,5,"Cheerful, Content, Motivated","Tired, Overwhelmed",Family,Home,Resting
+12/12/2025 2:02:25,12/12/2025 2:00:00,Positive,4,"Cheerful, Content, Motivated","Tired, Overwhelmed",Family,Home,Resting
+12/12/2025 3:18:46,12/12/2025 3:00:00,Positive,2,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+12/12/2025 15:07:45,12/12/2025 15:00:00,Negative,2,,"Stressed, Anxious, Sad, Overwhelmed",Family,Home,Chores
+12/12/2025 16:03:05,12/12/2025 16:00:00,Negative,4,,"Stressed, Anxious, Sad, Irritated",Family,Home,Eating
+12/12/2025 17:01:17,12/12/2025 17:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/12/2025 18:01:15,12/12/2025 18:00:00,Neutral,2,Relaxed,,Alone,Home,Resting
+12/12/2025 19:00:39,12/12/2025 19:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/12/2025 20:02:18,12/12/2025 20:00:00,Negative,3,,"Stressed, Anxious, Sad, Irritated",Family,Home,Studying
+12/12/2025 22:06:53,12/12/2025 22:00:00,Negative,4,Calm,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,Resting
+12/12/2025 23:03:43,12/12/2025 23:00:00,Negative,4,,"Stressed, Irritated",Family,Home,Eating
+12/13/2025 0:02:30,12/13/2025 0:00:00,Negative,5,,Sad,Family,Home,Chores
+12/13/2025 1:11:35,12/13/2025 1:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/13/2025 2:01:51,12/13/2025 2:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/13/2025 3:02:03,12/13/2025 3:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/13/2025 8:04:19,12/13/2025 8:00:00,Neutral,2,Calm,,Family,Home,Studying
+12/13/2025 9:18:24,12/13/2025 9:00:00,Neutral,2,Calm,,Family,Home,Studying
+12/13/2025 10:01:22,12/13/2025 10:00:00,Positive,4,"Cheerful, Content, Motivated",,Family,Home,Eating
+12/13/2025 11:03:06,12/13/2025 11:00:00,Neutral,3,"Calm, Motivated",,Family,Home,Studying
+12/13/2025 12:04:43,12/13/2025 12:00:00,Neutral,3,Calm,Overwhelmed,Family,Home,Studying
+12/13/2025 13:05:57,12/13/2025 13:00:00,Neutral,3,Calm,"Stressed, Irritated",Family,Home,Studying
+12/13/2025 14:04:59,12/13/2025 14:00:00,Neutral,3,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/13/2025 15:03:36,12/13/2025 15:00:00,Neutral,2,Calm,,Family,Home,Studying
+12/13/2025 16:01:56,12/13/2025 16:00:00,Negative,3,,"Anxious, Overwhelmed",Family,Home,Studying
+12/13/2025 17:11:42,12/13/2025 17:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/13/2025 18:08:15,12/13/2025 18:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/13/2025 19:03:46,12/13/2025 19:00:00,Positive,2,"Cheerful, Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/13/2025 20:06:00,12/13/2025 20:00:00,Neutral,2,"Calm, Motivated",,Family,Home,Studying
+12/13/2025 21:10:04,12/13/2025 21:00:00,Neutral,4,"Calm, Content, Motivated",,Family,Home,Chores
+12/13/2025 22:00:45,12/13/2025 22:00:00,Neutral,3,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/13/2025 23:06:04,12/13/2025 23:00:00,Negative,4,,"Stressed, Anxious, Tired, Irritated, Overwhelmed",Family,Home,Studying
+12/14/2025 0:08:26,12/14/2025 0:00:00,Neutral,3,Calm,,Family,Home,Studying
+12/14/2025 1:02:01,12/14/2025 1:00:00,Neutral,3,Calm,Irritated,Family,Home,Studying
+12/14/2025 2:01:28,12/14/2025 2:00:00,Positive,1,Calm,,Family,Home,Studying
+12/14/2025 3:00:55,12/14/2025 3:00:00,Neutral,3,"Calm, Content, Relaxed",Tired,Family,Home,Eating
+12/14/2025 4:00:52,12/14/2025 4:00:00,Neutral,1,Calm,Tired,Family,Home,Studying
+12/14/2025 15:03:35,12/14/2025 15:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Resting
+12/14/2025 16:09:29,12/14/2025 16:00:00,Positive,3,"Content, Motivated",,Family,Home,Eating
+12/14/2025 17:21:01,12/14/2025 17:00:00,Neutral,2,"Calm, Content",,Family,Home,Studying
+12/14/2025 18:24:02,12/14/2025 18:00:00,Neutral,2,"Calm, Content",,Family,Home,Studying
+12/14/2025 19:07:44,12/14/2025 19:00:00,Positive,3,"Cheerful, Calm, Motivated",,Family,Home,Eating
+12/14/2025 20:00:45,12/14/2025 20:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/14/2025 21:02:21,12/14/2025 21:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Chores
+12/14/2025 22:24:07,12/14/2025 22:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/14/2025 23:01:21,12/14/2025 23:00:00,Neutral,4,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/15/2025 0:02:45,12/15/2025 0:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/15/2025 1:00:27,12/15/2025 1:00:00,Positive,2,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/15/2025 2:21:57,12/15/2025 2:00:00,Neutral,3,"Content, Motivated, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/15/2025 3:09:46,12/15/2025 3:00:00,Positive,4,"Cheerful, Content, Motivated, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/15/2025 4:07:38,12/15/2025 4:00:00,Positive,3,"Cheerful, Content, Motivated",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/15/2025 5:01:10,12/15/2025 5:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/15/2025 6:10:59,12/15/2025 6:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/15/2025 7:01:51,12/15/2025 7:00:00,Neutral,5,"Calm, Relaxed",,Alone,Home,Resting
+12/15/2025 13:09:25,12/15/2025 13:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,Eating
+12/15/2025 14:05:16,12/15/2025 14:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,Resting
+12/15/2025 15:01:10,12/15/2025 15:00:00,Positive,3,"Cheerful, Motivated",,Alone,Home,Chores
+12/15/2025 16:35:10,12/15/2025 16:00:00,Positive,4,"Cheerful, Motivated",,Family,Home,Chores
+12/15/2025 17:02:27,12/15/2025 17:00:00,Positive,4,"Cheerful, Motivated",,Strangers,Transit,Commuting
+12/15/2025 18:29:06,12/15/2025 18:00:00,Very Negative,5,,"Stressed, Anxious, Irritated",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/15/2025 19:07:12,12/15/2025 19:00:00,Very Negative,5,,"Stressed, Anxious, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/15/2025 20:00:57,12/15/2025 20:00:00,Very Negative,5,,"Stressed, Anxious, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/15/2025 21:53:32,12/15/2025 21:00:00,Very Positive,5,"Energetic, Motivated","Stressed, Anxious",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/15/2025 22:43:36,12/15/2025 22:00:00,Very Positive,5,"Energetic, Motivated","Stressed, Anxious, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/16/2025 0:01:14,12/16/2025 0:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",Anxious,Friends,Public Place,"Entertainment (games, videos, etc.)"
+12/16/2025 1:06:59,12/16/2025 1:00:00,Very Negative,5,,"Anxious, Sad, Tired, Irritated",Family,Home,Appealing for Facebook ban
+12/16/2025 2:01:11,12/16/2025 2:00:00,Very Negative,5,,"Anxious, Sad, Tired, Irritated",Family,Home,Appealing for Facebook ban
+12/16/2025 3:16:26,12/16/2025 3:00:00,Negative,4,,"Anxious, Irritated",Friends,Home,Appealing for Facebook ban
+12/16/2025 4:06:33,12/16/2025 4:00:00,Positive,4,"Cheerful, Content",,Alone,Home,Eating
+12/16/2025 5:16:20,12/16/2025 5:00:00,Neutral,5,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/16/2025 13:04:42,12/16/2025 13:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,Resting
+12/16/2025 14:04:35,12/16/2025 14:00:00,Negative,3,,"Anxious, Overwhelmed",Alone,Home,Studying
+12/16/2025 16:41:35,12/16/2025 15:00:00,Negative,3,,"Stressed, Anxious, Overwhelmed",Alone,Home,Studying
+12/16/2025 16:42:21,12/16/2025 16:00:00,Negative,2,Calm,"Stressed, Anxious, Irritated",Alone,Home,Studying
+12/16/2025 17:25:20,12/16/2025 17:00:00,Neutral,5,Calm,Anxious,Alone,Home,Studying
+12/16/2025 18:25:40,12/16/2025 18:00:00,Neutral,2,"Calm, Motivated",,Family,Home,Studying
+12/16/2025 19:07:23,12/16/2025 19:00:00,Positive,2,"Cheerful, Calm, Content, Motivated",,Alone,Public Place,Buying Snacks
+12/16/2025 20:09:59,12/16/2025 20:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/16/2025 21:21:05,12/16/2025 21:00:00,Negative,2,Calm,"Stressed, Anxious, Tired, Overwhelmed",Family,Home,Studying
+12/16/2025 22:28:17,12/16/2025 22:00:00,Neutral,2,"Calm, Motivated",Overwhelmed,Family,Home,Studying
+12/16/2025 23:01:02,12/16/2025 23:00:00,Neutral,2,Calm,Anxious,Family,Home,Studying
+12/17/2025 1:55:48,12/17/2025 0:00:00,Neutral,3,Calm,"Stressed, Anxious, Tired",Family,Home,Studying
+12/17/2025 1:56:22,12/17/2025 1:00:00,Negative,1,Calm,"Stressed, Anxious, Tired, Overwhelmed",Family,Home,Studying
+12/17/2025 2:11:23,12/17/2025 2:00:00,Neutral,2,,Tired,Family,Home,Studying
+12/17/2025 3:05:27,12/17/2025 3:00:00,Neutral,2,,Tired,Family,Home,Studying
+12/17/2025 4:05:43,12/17/2025 4:00:00,Neutral,2,,"Stressed, Tired, Overwhelmed",Family,Home,Studying
+12/17/2025 5:01:09,12/17/2025 5:00:00,Neutral,3,,"Stressed, Tired, Overwhelmed",Family,Home,Studying
+12/17/2025 6:02:46,12/17/2025 6:00:00,Neutral,1,"Calm, Content",Tired,Family,Home,Studying
+12/17/2025 13:13:10,12/17/2025 13:00:00,Positive,4,"Cheerful, Motivated",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/17/2025 14:13:38,12/17/2025 14:00:00,Positive,4,"Cheerful, Calm, Content, Motivated",,Family,Home,Chores
+12/17/2025 15:47:43,12/17/2025 15:00:00,Positive,4,"Cheerful, Content, Motivated",,Alone,Home,Chores
+12/17/2025 16:15:28,12/17/2025 16:00:00,Positive,4,"Cheerful, Content, Motivated",,Strangers,Transit,Commuting
+12/17/2025 17:01:11,12/17/2025 17:00:00,Positive,4,"Calm, Content",,Friends,Friend’s Home,Drinking
+12/17/2025 18:07:47,12/17/2025 18:00:00,Very Positive,5,"Cheerful, Energetic, Motivated",,Friends,Friend’s Home,Drinking
+12/17/2025 19:26:22,12/17/2025 19:00:00,Very Positive,5,"Cheerful, Content, Energetic",,Friends,Friend’s Home,Drinking
+12/17/2025 20:05:48,12/17/2025 20:00:00,Very Positive,5,"Cheerful, Energetic, Motivated",,Friends,Friend’s Home,Drinking
+12/17/2025 21:37:19,12/17/2025 21:00:00,Very Positive,5,"Cheerful, Energetic",,Friends,Friend’s Home,Drinking
+12/17/2025 22:10:01,12/17/2025 22:00:00,Very Positive,5,"Cheerful, Content, Energetic",,Friends,Friend’s Home,Drinking
+12/17/2025 23:30:17,12/17/2025 23:00:00,Neutral,4,"Cheerful, Energetic",,Friends,Friend’s Home,Drinking
+12/18/2025 0:04:17,12/18/2025 0:00:00,Very Positive,5,"Cheerful, Energetic",,Friends,Friend’s Home,Drinking
+12/18/2025 1:23:00,12/18/2025 1:00:00,Very Positive,5,"Cheerful, Energetic",,Friends,Friend’s Home,Drinking
+12/18/2025 2:07:37,12/18/2025 2:00:00,Positive,4,"Calm, Content, Relaxed",Tired,Strangers,Transit,Commuting
+12/18/2025 9:12:06,12/18/2025 9:00:00,Negative,4,,"Tired, Nauseous",Family,Home,Resting
+12/18/2025 10:00:56,12/18/2025 10:00:00,Neutral,5,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/18/2025 14:01:14,12/18/2025 14:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Chores
+12/18/2025 15:18:18,12/18/2025 15:00:00,Neutral,3,"Calm, Content, Motivated",,Family,Home,Chores
+12/18/2025 16:20:17,12/18/2025 16:00:00,Neutral,3,"Calm, Content, Relaxed",,Strangers,Transit,Commuting
+12/18/2025 17:08:44,12/18/2025 17:00:00,Neutral,3,"Calm, Relaxed",Anxious,Strangers,School,Studying
+12/18/2025 18:01:41,12/18/2025 18:00:00,Positive,3,"Cheerful, Content, Motivated",,Classmates,School,Studying
+12/18/2025 19:16:17,12/18/2025 19:00:00,Positive,4,"Cheerful, Content, Motivated",,Friends,Public Place,Eating
+12/18/2025 20:01:38,12/18/2025 20:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/18/2025 21:14:40,12/18/2025 21:00:00,Negative,4,,"Anxious, Sad, Irritated",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/18/2025 22:53:21,12/18/2025 22:00:00,Very Negative,5,,"Stressed, Anxious, Sad, Tired, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/18/2025 23:29:52,12/18/2025 23:00:00,Very Negative,5,,"Stressed, Anxious, Sad, Tired, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/19/2025 1:14:32,12/19/2025 0:00:00,Very Negative,5,,"Stressed, Anxious, Tired, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/19/2025 1:14:58,12/19/2025 1:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",,Strangers,Public Place,"Entertainment (games, videos, etc.)"
+12/19/2025 2:13:43,12/19/2025 2:00:00,Positive,3,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+12/19/2025 3:42:50,12/19/2025 3:00:00,Neutral,3,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+12/19/2025 4:09:53,12/19/2025 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/19/2025 5:17:42,12/19/2025 5:00:00,Positive,3,"Cheerful, Content, Motivated, Relaxed",,Family,Home,Eating
+12/19/2025 6:13:49,12/19/2025 6:00:00,Positive,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/19/2025 7:10:29,12/19/2025 7:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/19/2025 12:02:07,12/19/2025 12:00:00,Neutral,1,"Calm, Relaxed",Irritated,Alone,Home,Had to pay for parcel that wasn’t mine
+12/19/2025 19:04:52,12/19/2025 19:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/19/2025 20:03:11,12/19/2025 20:00:00,Neutral,3,"Calm, Content, Relaxed",Sad,Family,Home,"Entertainment (games, videos, etc.)"
+12/19/2025 21:02:28,12/19/2025 21:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/19/2025 22:01:35,12/19/2025 22:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/19/2025 23:01:05,12/19/2025 23:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 0:01:21,12/20/2025 0:00:00,Positive,4,"Cheerful, Content, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 1:48:58,12/20/2025 1:00:00,Very Negative,5,,"Anxious, Sad, Irritated",Family,Home,Fixing Internet Outage
+12/20/2025 2:01:22,12/20/2025 2:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 3:00:59,12/20/2025 3:00:00,Neutral,2,Calm,Irritated,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 4:13:06,12/20/2025 4:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 5:02:04,12/20/2025 5:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 6:03:01,12/20/2025 6:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,Resting
+12/20/2025 17:37:46,12/20/2025 17:00:00,Positive,4,"Cheerful, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 18:14:25,12/20/2025 18:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 19:31:00,12/20/2025 19:00:00,Negative,4,,"Stressed, Irritated",Family,Home,Fixing iCloud Sync
+12/20/2025 20:00:59,12/20/2025 20:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 21:02:21,12/20/2025 21:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 22:01:06,12/20/2025 22:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/20/2025 23:02:20,12/20/2025 23:00:00,Positive,4,"Calm, Content, Relaxed",,Family,Home,Eating
+12/21/2025 0:03:52,12/21/2025 0:00:00,Positive,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 1:00:46,12/21/2025 1:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 2:24:48,12/21/2025 2:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 3:01:11,12/21/2025 3:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 4:00:59,12/21/2025 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 5:16:22,12/21/2025 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 6:00:55,12/21/2025 6:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 16:12:00,12/21/2025 16:00:00,Neutral,3,Relaxed,,Family,Home,Eating
+12/21/2025 17:03:39,12/21/2025 17:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 18:09:00,12/21/2025 18:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 19:01:15,12/21/2025 19:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 20:07:02,12/21/2025 20:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 21:00:53,12/21/2025 21:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 22:23:52,12/21/2025 22:00:00,Neutral,2,Calm,Stressed,Family,Home,"Entertainment (games, videos, etc.)"
+12/21/2025 23:00:42,12/21/2025 23:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 0:05:21,12/22/2025 0:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 1:01:03,12/22/2025 1:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 2:01:05,12/22/2025 2:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 3:47:10,12/22/2025 3:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 4:04:22,12/22/2025 4:00:00,Neutral,2,"Cheerful, Calm, Content, Relaxed",,Family,Home,Resting
+12/22/2025 17:00:54,12/22/2025 17:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 18:11:57,12/22/2025 18:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 19:48:55,12/22/2025 19:00:00,Positive,4,"Cheerful, Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 20:06:45,12/22/2025 20:00:00,Positive,4,"Cheerful, Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 21:26:28,12/22/2025 21:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/22/2025 22:01:56,12/22/2025 22:00:00,Negative,4,,Nauseous,Family,Home,Socializing
+12/22/2025 23:04:22,12/22/2025 23:00:00,Negative,4,,Nauseous,Family,Home,Resting
+12/23/2025 2:18:13,12/23/2025 2:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/23/2025 3:01:15,12/23/2025 3:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/23/2025 4:33:19,12/23/2025 4:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/23/2025 5:09:44,12/23/2025 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/23/2025 6:06:35,12/23/2025 6:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/23/2025 7:03:51,12/23/2025 7:00:00,Negative,4,,"Anxious, Irritated",Family,Home,Socializing
+12/23/2025 8:02:14,12/23/2025 8:00:00,Very Negative,5,,"Anxious, Sad, Irritated",Family,Home,Socializing
+12/23/2025 9:02:50,12/23/2025 9:00:00,Negative,4,,"Stressed, Anxious, Irritated",Alone,Home,"Entertainment (games, videos, etc.)"
+12/23/2025 10:22:29,12/23/2025 10:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/23/2025 11:08:24,12/23/2025 11:00:00,Neutral,1,Calm,,Family,Home,Chores
+12/23/2025 12:10:58,12/23/2025 12:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/23/2025 13:01:29,12/23/2025 13:00:00,Neutral,2,Calm,,Family,Home,Resting
+12/23/2025 20:02:17,12/23/2025 20:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,Eating
+12/23/2025 21:29:12,12/23/2025 21:00:00,Very Negative,5,,"Stressed, Sad, Irritated, Overwhelmed",Family,Home,Chores
+12/23/2025 22:05:35,12/23/2025 22:00:00,Very Negative,5,,"Stressed, Sad, Irritated, Overwhelmed",Family,Home,Chores
+12/23/2025 23:01:52,12/23/2025 23:00:00,Very Negative,5,,"Stressed, Anxious, Sad, Tired, Irritated, Overwhelmed",Family,Home,Socializing
+12/24/2025 0:02:07,12/24/2025 0:00:00,Very Negative,5,,"Stressed, Anxious, Sad, Tired, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/24/2025 1:15:07,12/24/2025 1:00:00,Negative,4,,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,Resting
+12/24/2025 2:16:01,12/24/2025 2:00:00,Negative,2,Calm,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/24/2025 3:00:46,12/24/2025 3:00:00,Negative,2,Calm,"Stressed, Anxious, Sad, Irritated",Family,Home,"Entertainment (games, videos, etc.)"
+12/24/2025 4:01:34,12/24/2025 4:00:00,Neutral,1,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/24/2025 11:31:23,12/24/2025 11:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/24/2025 12:00:49,12/24/2025 12:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,Chores
+12/24/2025 13:00:44,12/24/2025 13:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,Eating
+12/24/2025 14:01:19,12/24/2025 14:00:00,Neutral,1,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/24/2025 15:01:56,12/24/2025 15:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/24/2025 19:03:38,12/24/2025 19:00:00,Neutral,2,Calm,,Family,Home,Chores
+12/24/2025 20:20:52,12/24/2025 20:00:00,Neutral,2,Calm,,Family,Home,Chores
+12/24/2025 21:02:17,12/24/2025 21:00:00,Neutral,1,"Calm, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/24/2025 22:09:00,12/24/2025 22:00:00,Positive,2,Motivated,Anxious,Family,Transit,Commuting
+12/24/2025 23:28:38,12/24/2025 23:00:00,Neutral,2,Calm,,Family,Condo,"Entertainment (games, videos, etc.)"
+12/25/2025 1:13:58,12/25/2025 0:00:00,Positive,4,"Cheerful, Motivated",,Family,Condo,Socializing
+12/25/2025 1:14:43,12/25/2025 1:00:00,Very Positive,5,"Cheerful, Content, Motivated",,Family,Condo,Gift Giving
+12/25/2025 2:01:01,12/25/2025 2:00:00,Very Positive,5,"Cheerful, Content, Motivated",,Family,Condo,Socializing
+12/25/2025 3:05:27,12/25/2025 3:00:00,Positive,3,"Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+12/25/2025 4:15:41,12/25/2025 4:00:00,Neutral,3,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/25/2025 5:10:25,12/25/2025 5:00:00,Neutral,2,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/25/2025 6:35:34,12/25/2025 6:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,Resting
+12/25/2025 12:38:08,12/25/2025 12:00:00,Negative,4,,Irritated,Family,Home,Chores
+12/25/2025 13:22:48,12/25/2025 13:00:00,Neutral,3,Calm,,Family,Home,Chores
+12/25/2025 14:41:54,12/25/2025 14:00:00,Negative,2,Calm,Irritated,Family,Home,Chores
+12/25/2025 15:00:59,12/25/2025 15:00:00,Neutral,2,Calm,,Family,Home,Commuting
+12/25/2025 16:54:14,12/25/2025 16:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Family,Relative’s Home,Socializing
+12/25/2025 17:04:27,12/25/2025 17:00:00,Positive,4,"Cheerful, Content, Energetic, Motivated",,Family,Relative’s Home,Socializing
+12/25/2025 18:26:10,12/25/2025 18:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",,Family,Relative’s Home,Socializing
+12/25/2025 19:01:29,12/25/2025 19:00:00,Positive,4,"Cheerful, Content, Energetic, Motivated",,Family,Relative’s Home,"Entertainment (games, videos, etc.)"
+12/25/2025 20:23:08,12/25/2025 20:00:00,Positive,4,"Calm, Content, Motivated, Relaxed",,Family,Relative’s Home,"Entertainment (games, videos, etc.)"
+12/25/2025 21:02:12,12/25/2025 21:00:00,Positive,2,"Calm, Content, Relaxed",,Family,Relative’s Home,"Entertainment (games, videos, etc.)"
+12/25/2025 22:01:15,12/25/2025 22:00:00,Negative,2,Calm,Sad,Family,Relative’s Home,"Entertainment (games, videos, etc.)"
+12/25/2025 23:25:49,12/25/2025 23:00:00,Positive,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 0:06:44,12/26/2025 0:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 1:25:05,12/26/2025 1:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 2:05:53,12/26/2025 2:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 3:01:07,12/26/2025 3:00:00,Neutral,2,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 16:04:04,12/26/2025 16:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 17:03:23,12/26/2025 17:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 18:01:26,12/26/2025 18:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 19:23:15,12/26/2025 19:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 20:32:16,12/26/2025 20:00:00,Neutral,1,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 21:05:40,12/26/2025 21:00:00,Positive,4,"Calm, Content, Motivated",,Family,Home,"Entertainment (games, videos, etc.)"
+12/26/2025 22:13:15,12/26/2025 22:00:00,Negative,3,,"Anxious, Irritated",Family,Home,Eating
+12/26/2025 23:03:19,12/26/2025 23:00:00,Positive,4,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 0:02:10,12/27/2025 0:00:00,Positive,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 1:01:17,12/27/2025 1:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 2:01:53,12/27/2025 2:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 3:01:16,12/27/2025 3:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 4:06:10,12/27/2025 4:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 5:07:42,12/27/2025 5:00:00,Neutral,2,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 6:02:08,12/27/2025 6:00:00,Neutral,2,Calm,,Family,Home,Resting
+12/27/2025 14:29:14,12/27/2025 14:00:00,Negative,5,Calm,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,Chores
+12/27/2025 15:10:42,12/27/2025 15:00:00,Negative,4,Calm,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,Resting
+12/27/2025 16:01:27,12/27/2025 16:00:00,Negative,3,Calm,"Anxious, Sad, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 17:02:25,12/27/2025 17:00:00,Negative,4,Calm,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 18:04:00,12/27/2025 18:00:00,Negative,4,,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 19:01:44,12/27/2025 19:00:00,Negative,5,,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 20:09:31,12/27/2025 20:00:00,Negative,3,Calm,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 21:29:29,12/27/2025 21:00:00,Neutral,1,Calm,Anxious,Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 22:07:22,12/27/2025 22:00:00,Negative,3,Calm,"Stressed, Anxious, Sad, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/27/2025 23:02:33,12/27/2025 23:00:00,Neutral,2,Calm,"Anxious, Overwhelmed",Family,Home,Socializing
+12/28/2025 0:03:15,12/28/2025 0:00:00,Negative,2,Calm,"Stressed, Anxious, Sad, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 1:00:51,12/28/2025 1:00:00,Negative,4,Calm,"Stressed, Anxious, Sad, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 2:01:50,12/28/2025 2:00:00,Negative,1,"Calm, Relaxed","Anxious, Sad, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 3:22:14,12/28/2025 3:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 4:00:55,12/28/2025 4:00:00,Positive,4,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 5:01:08,12/28/2025 5:00:00,Neutral,3,"Calm, Relaxed",Sad,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 6:11:53,12/28/2025 6:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 7:03:31,12/28/2025 7:00:00,Neutral,3,Calm,,Family,Home,Resting
+12/28/2025 17:02:42,12/28/2025 17:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 18:05:21,12/28/2025 18:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 19:01:16,12/28/2025 19:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 20:04:52,12/28/2025 20:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 21:03:50,12/28/2025 21:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 22:10:23,12/28/2025 22:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/28/2025 23:23:08,12/28/2025 23:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 1:07:07,12/29/2025 0:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 1:20:06,12/29/2025 1:00:00,Negative,2,,"Stressed, Irritated",Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 2:14:27,12/29/2025 2:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 3:02:29,12/29/2025 3:00:00,Negative,1,Calm,"Stressed, Anxious, Tired, Overwhelmed",Family,Home,Chores
+12/29/2025 4:01:58,12/29/2025 4:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 5:01:00,12/29/2025 5:00:00,Neutral,2,Calm,Sad,Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 6:16:52,12/29/2025 6:00:00,Neutral,2,Calm,"Anxious, Sad",Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 7:32:37,12/29/2025 7:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 8:15:20,12/29/2025 8:00:00,Neutral,1,Calm,"Anxious, Sad",Family,Home,Chores
+12/29/2025 9:36:03,12/29/2025 9:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 10:32:13,12/29/2025 10:00:00,Neutral,2,Calm,,Family,Home,Resting
+12/29/2025 17:33:11,12/29/2025 5:00:00,Negative,3,Calm,"Anxious, Sad",Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 18:02:57,12/29/2025 18:00:00,Negative,3,Calm,"Anxious, Sad",Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 19:03:56,12/29/2025 19:00:00,Neutral,4,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/29/2025 20:21:02,12/29/2025 20:00:00,Positive,3,"Cheerful, Calm, Motivated",Anxious,Family,Home,Taking care of laboring cat
+12/29/2025 21:31:42,12/29/2025 21:00:00,Positive,4,"Cheerful, Calm, Motivated",,Family,Home,Taking care of laboring cat
+12/29/2025 22:10:31,12/29/2025 22:00:00,Neutral,1,"Calm, Motivated",Anxious,Family,Home,Taking care of laboring cat
+12/29/2025 23:20:48,12/29/2025 23:00:00,Neutral,1,"Calm, Motivated","Stressed, Anxious",Family,Home,Taking care of laboring cat
+12/30/2025 0:16:06,12/30/2025 0:00:00,Neutral,2,"Calm, Relaxed",Anxious,Family,Home,Resting
+12/30/2025 5:19:33,12/30/2025 5:00:00,Very Positive,5,"Cheerful, Calm, Content, Motivated",Anxious,Family,Home,Taking care of kittens
+12/30/2025 9:56:56,12/30/2025 8:00:00,Negative,4,Calm,Anxious,Family,Home,Chores
+12/30/2025 9:57:43,12/30/2025 9:00:00,Neutral,2,Calm,Anxious,Family,Home,Chores
+12/30/2025 10:51:00,12/30/2025 10:00:00,Neutral,3,"Cheerful, Calm",Anxious,Family,Home,"Entertainment (games, videos, etc.)"
+12/30/2025 11:01:27,12/30/2025 11:00:00,Positive,4,"Cheerful, Calm, Content",,Family,Home,Socializing
+12/30/2025 12:03:43,12/30/2025 12:00:00,Positive,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/30/2025 13:10:13,12/30/2025 13:00:00,Negative,4,Calm,"Stressed, Anxious, Irritated",Alone,Home,"Entertainment (games, videos, etc.)"
+12/30/2025 14:04:23,12/30/2025 14:00:00,Neutral,3,"Calm, Content, Relaxed",Anxious,Alone,Home,"Entertainment (games, videos, etc.)"
+12/30/2025 15:02:48,12/30/2025 15:00:00,Neutral,2,"Calm, Relaxed",Anxious,Alone,Home,"Entertainment (games, videos, etc.)"
+12/30/2025 16:01:30,12/30/2025 16:00:00,Neutral,2,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+12/30/2025 23:15:33,12/30/2025 23:00:00,Positive,2,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 0:09:58,12/31/2025 0:00:00,Positive,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 1:06:06,12/31/2025 1:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 2:43:50,12/31/2025 2:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,Socializing
+12/31/2025 3:24:11,12/31/2025 3:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 4:14:44,12/31/2025 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 5:43:25,12/31/2025 5:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 6:07:57,12/31/2025 6:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 7:07:14,12/31/2025 7:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,Chores
+12/31/2025 13:48:02,12/31/2025 13:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 14:04:55,12/31/2025 14:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 15:07:46,12/31/2025 15:00:00,Negative,3,,Sad,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 16:20:49,12/31/2025 16:00:00,Positive,3,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 20:12:29,12/31/2025 19:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Resting
+12/31/2025 20:12:52,12/31/2025 20:00:00,Neutral,3,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+12/31/2025 21:03:34,12/31/2025 21:00:00,Negative,3,,"Anxious, Irritated",Family,Transit,Commuting
+12/31/2025 22:01:02,12/31/2025 22:00:00,Positive,3,"Cheerful, Energetic, Motivated",,Family,Relative’s Home,"Entertainment (games, videos, etc.)"
+12/31/2025 23:49:59,12/31/2025 23:00:00,Very Positive,5,"Cheerful, Energetic, Motivated",Anxious,Family,Public Place,Celebrating New Year
+1/1/2026 0:16:57,1/1/2026 0:00:00,Very Positive,5,"Cheerful, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Family,Relative’s Home,Celebrating New Year
+1/1/2026 1:15:56,1/1/2026 1:00:00,Very Positive,5,"Cheerful, Calm, Content, Energetic, Motivated","Stressed, Anxious",Family,Relative’s Home,Eating
+1/1/2026 2:02:04,1/1/2026 2:00:00,Negative,5,Calm,"Stressed, Anxious, Sad, Tired, Irritated, Overwhelmed",Family,Relative’s Home,Looking for lost slippers
+1/1/2026 3:19:37,1/1/2026 3:00:00,Neutral,3,"Calm, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+1/1/2026 4:37:32,1/1/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/1/2026 5:32:38,1/1/2026 5:00:00,Positive,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/1/2026 6:08:34,1/1/2026 6:00:00,Positive,4,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/1/2026 7:11:58,1/1/2026 7:00:00,Neutral,3,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+1/1/2026 13:30:57,1/1/2026 13:00:00,Neutral,3,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+1/1/2026 14:20:45,1/1/2026 14:00:00,Very Negative,5,,"Stressed, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+1/1/2026 15:20:16,1/1/2026 15:00:00,Very Negative,4,,"Irritated, Overwhelmed",Family,Home,Chores
+1/1/2026 16:11:14,1/1/2026 16:00:00,Neutral,3,Calm,,Family,Transit,Commuting
+1/1/2026 17:24:46,1/1/2026 17:00:00,Neutral,3,Calm,Anxious,Family,Hospital,Socializing
+1/1/2026 18:15:00,1/1/2026 18:00:00,Negative,2,Calm,"Anxious, Sad",Family,Hospital,Resting
+1/1/2026 19:26:13,1/1/2026 19:00:00,Neutral,2,Calm,"Sad, Tired",Alone,Transit,Commuting
+1/1/2026 20:57:39,1/1/2026 20:00:00,Negative,3,Calm,"Tired, Irritated",Alone,Home,Chores
+1/1/2026 21:02:56,1/1/2026 21:00:00,Neutral,3,"Calm, Relaxed",Tired,Alone,Home,"Entertainment (games, videos, etc.)"
+1/1/2026 22:04:58,1/1/2026 22:00:00,Positive,3,"Calm, Content, Relaxed",Tired,Alone,Home,"Entertainment (games, videos, etc.)"
+1/1/2026 23:03:27,1/1/2026 23:00:00,Neutral,2,"Calm, Relaxed",,Alone,Home,Resting
+1/2/2026 0:01:46,1/2/2026 0:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/2/2026 1:05:34,1/2/2026 1:00:00,Neutral,2,"Calm, Relaxed",Tired,Alone,Home,Chores
+1/2/2026 2:13:28,1/2/2026 2:00:00,Very Positive,5,Motivated,"Stressed, Anxious",Alone,Home,"Entertainment (games, videos, etc.)"
+1/2/2026 3:47:53,1/2/2026 3:00:00,Neutral,2,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/2/2026 10:24:33,1/2/2026 10:00:00,Very Negative,5,Calm,"Sad, Tired, Overwhelmed",Family,Hospital,Bidding farewell to a lost family member
+1/2/2026 11:09:39,1/2/2026 11:00:00,Very Negative,5,Calm,"Sad, Tired",Family,Hospital,Bidding farewell to a lost family member
+1/2/2026 12:01:58,1/2/2026 12:00:00,Very Negative,5,Calm,"Sad, Tired",Family,Hospital,Bidding farewell to a lost family member
+1/2/2026 13:12:10,1/2/2026 13:00:00,Very Negative,5,Calm,"Sad, Tired",Family,Hospital,Bidding farewell to a lost family member
+1/2/2026 14:40:41,1/2/2026 14:00:00,Very Negative,5,Calm,"Anxious, Sad",Family,Hospital,Bidding farewell to a lost family member
+1/2/2026 15:01:25,1/2/2026 15:00:00,Very Negative,5,Calm,"Anxious, Sad",Family,Hospital,Bidding farewell to a lost family member
+1/2/2026 17:00:38,1/2/2026 16:00:00,Negative,5,Calm,"Sad, Tired",Alone,Home,Resting
+1/2/2026 17:01:04,1/2/2026 17:00:00,Negative,4,Calm,"Sad, Tired",Alone,Home,Resting
+1/2/2026 18:02:55,1/2/2026 18:00:00,Negative,3,Calm,Sad,Family,Transit,Commuting
+1/2/2026 19:29:48,1/2/2026 19:00:00,Positive,3,"Cheerful, Calm, Relaxed",Sad,Family,Public Place,Eating
+1/2/2026 20:34:57,1/2/2026 20:00:00,Neutral,2,Calm,"Sad, Tired",Family,Home,Resting
+1/2/2026 21:06:30,1/2/2026 21:00:00,Neutral,2,Calm,"Sad, Tired",Family,Home,Resting
+1/2/2026 22:22:52,1/2/2026 22:00:00,Neutral,1,Calm,"Sad, Tired, Irritated",Family,Home,"Entertainment (games, videos, etc.)"
+1/2/2026 23:01:59,1/2/2026 23:00:00,Negative,2,"Calm, Relaxed","Sad, Tired, Irritated",Family,Home,Resting
+1/3/2026 13:02:43,1/3/2026 12:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/3/2026 13:03:16,1/3/2026 13:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,Eating
+1/3/2026 14:25:14,1/3/2026 14:00:00,Neutral,2,Calm,,Family,Home,"Entertainment (games, videos, etc.)"
+1/3/2026 15:19:24,1/3/2026 15:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Friends,Public Place,Socializing
+1/3/2026 16:16:28,1/2/2026 16:00:00,Neutral,1,"Calm, Content, Motivated",,Friends,Transit,Commuting
+1/3/2026 17:56:07,1/3/2026 17:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",,Friends,Public Place,Buying
+1/3/2026 18:23:03,1/3/2026 18:00:00,Positive,4,"Cheerful, Content, Energetic, Motivated",,Friends,Public Place,Buying
+1/3/2026 19:50:12,1/3/2026 19:00:00,Positive,4,"Cheerful, Content, Motivated",Tired,Friends,Public Place,Socializing
+1/3/2026 20:02:22,1/3/2026 20:00:00,Positive,2,"Calm, Content, Motivated, Relaxed",,Friends,Public Place,Socializing
+1/3/2026 21:07:20,1/3/2026 21:00:00,Very Positive,5,"Cheerful, Content, Energetic",Tired,Friends,Public Place,Socializing
+1/3/2026 23:10:59,1/3/2026 22:00:00,Negative,4,Energetic,"Stressed, Anxious, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/3/2026 23:11:24,1/3/2026 23:00:00,Negative,4,"Energetic, Motivated","Stressed, Anxious, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/4/2026 0:36:17,1/4/2026 0:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated","Stressed, Anxious",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/4/2026 1:44:46,1/4/2026 1:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/4/2026 2:29:42,1/4/2026 2:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/4/2026 3:10:16,1/4/2026 3:00:00,Neutral,1,"Calm, Content, Relaxed",Tired,Family,Home,Chores
+1/4/2026 4:05:24,1/4/2026 4:00:00,Neutral,1,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+1/4/2026 5:17:21,1/4/2026 5:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/4/2026 13:01:35,1/4/2026 13:00:00,Negative,2,Calm,Irritated,Alone,Relative’s Home,Feeding Dog
+1/4/2026 14:10:38,1/4/2026 14:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/4/2026 15:08:19,1/4/2026 15:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/4/2026 16:37:19,1/4/2026 16:00:00,Negative,3,Calm,"Tired, Irritated",Family,Funeral,Resting
+1/4/2026 17:12:53,1/4/2026 17:00:00,Negative,2,Calm,"Tired, Irritated",Family,Funeral,Chores
+1/4/2026 18:42:20,1/4/2026 18:00:00,Neutral,2,"Calm, Relaxed",,Family,Funeral,Resting
+1/4/2026 19:03:22,1/4/2026 19:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,Resting
+1/4/2026 20:18:32,1/4/2026 20:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/4/2026 21:00:49,1/4/2026 21:00:00,Neutral,2,"Calm, Relaxed","Tired, Irritated",Family,Home,"Entertainment (games, videos, etc.)"
+1/4/2026 22:09:08,1/4/2026 22:00:00,Neutral,2,"Calm, Relaxed","Anxious, Tired",Family,Funeral,Chores
+1/4/2026 23:07:16,1/4/2026 23:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/5/2026 0:01:24,1/5/2026 0:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/5/2026 1:15:59,1/5/2026 1:00:00,Neutral,2,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/5/2026 2:24:28,1/5/2026 2:00:00,Neutral,2,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/5/2026 3:25:04,1/5/2026 3:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/5/2026 4:01:15,1/5/2026 4:00:00,Neutral,2,"Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/5/2026 5:08:22,1/5/2026 5:00:00,Neutral,2,"Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/5/2026 6:05:23,1/5/2026 6:00:00,Neutral,2,"Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/5/2026 7:03:21,1/5/2026 7:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/5/2026 16:44:55,1/5/2026 16:00:00,Neutral,2,"Motivated, Relaxed",,Family,Home,Chores
+1/5/2026 17:08:52,1/5/2026 17:00:00,Neutral,3,Motivated,,Strangers,Transit,Commuting
+1/5/2026 18:37:11,1/5/2026 18:00:00,Neutral,3,"Cheerful, Content, Energetic, Motivated",,Classmates,School,Studying
+1/5/2026 19:36:41,1/5/2026 19:00:00,Positive,5,"Cheerful, Content, Motivated",,Friends,Public Place,Socializing
+1/5/2026 20:31:08,1/5/2026 20:00:00,Negative,4,"Calm, Energetic","Stressed, Anxious, Irritated",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/5/2026 21:51:54,1/5/2026 21:00:00,Neutral,3,"Energetic, Motivated","Stressed, Anxious, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/5/2026 22:19:55,1/5/2026 22:00:00,Very Negative,5,Energetic,"Stressed, Anxious, Tired, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/5/2026 23:09:51,1/5/2026 23:00:00,Neutral,3,"Calm, Relaxed",Tired,Family,Home,Resting
+1/6/2026 0:08:19,1/6/2026 0:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/6/2026 1:42:25,1/6/2026 1:00:00,Neutral,3,"Calm, Content","Tired, Irritated",Family,Funeral,Eating
+1/6/2026 2:06:30,1/6/2026 2:00:00,Neutral,3,"Calm, Content, Relaxed",Tired,Alone,Home,"Entertainment (games, videos, etc.)"
+1/6/2026 3:08:02,1/6/2026 3:00:00,Neutral,3,"Calm, Content, Relaxed","Tired, Irritated",Alone,Home,Chores
+1/6/2026 4:28:28,1/6/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,Chores
+1/6/2026 5:04:33,1/6/2026 5:00:00,Neutral,2,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/6/2026 6:00:59,1/6/2026 6:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/6/2026 7:05:04,1/6/2026 7:00:00,Neutral,2,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/6/2026 14:19:08,1/6/2026 14:00:00,Neutral,1,Calm,Irritated,Alone,Home,Chores
+1/6/2026 15:03:34,1/6/2026 15:00:00,Neutral,2,Calm,Irritated,Family,Home,"Entertainment (games, videos, etc.)"
+1/6/2026 16:01:51,1/6/2026 16:00:00,Neutral,4,"Calm, Relaxed",,Alone,Home,Resting
+1/6/2026 17:03:59,1/6/2026 17:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,Eating
+1/6/2026 22:56:57,1/6/2026 10:00:00,Neutral,3,Calm,Anxious,Family,Funeraria,"Entertainment (games, videos, etc.)"
+1/6/2026 23:01:21,1/6/2026 23:00:00,Neutral,3,Calm,,Family,Funeral,"Entertainment (games, videos, etc.)"
+1/7/2026 0:25:18,1/7/2026 0:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 1:49:26,1/7/2026 1:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Alone,Home,Eating
+1/7/2026 2:26:05,1/7/2026 2:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 3:06:34,1/7/2026 3:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 4:02:31,1/7/2026 4:00:00,Very Positive,5,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 5:24:55,1/7/2026 5:00:00,Neutral,2,Calm,Anxious,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 6:07:59,1/7/2026 6:00:00,Negative,4,,Irritated,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 7:10:03,1/7/2026 7:00:00,Neutral,2,"Calm, Relaxed",Irritated,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 8:05:43,1/7/2026 8:00:00,Neutral,2,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 13:23:45,1/7/2026 13:00:00,Negative,4,Calm,"Anxious, Irritated, Overwhelmed",Family,Home,Studying
+1/7/2026 14:05:01,1/7/2026 14:00:00,Neutral,3,Calm,"Anxious, Irritated, Overwhelmed",Family,Home,Chores
+1/7/2026 15:15:52,1/7/2026 15:00:00,Neutral,1,Calm,Irritated,Family,Funeral,Chores
+1/7/2026 16:01:33,1/7/2026 16:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 17:01:08,1/7/2026 17:00:00,Neutral,5,Relaxed,Anxious,Alone,Home,"Entertainment (games, videos, etc.)"
+1/7/2026 18:08:34,1/7/2026 18:00:00,Positive,4,"Cheerful, Calm, Energetic, Motivated",,Family,Funeral,Socializing
+1/7/2026 19:03:47,1/7/2026 19:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Family,Funeral,Socializing
+1/7/2026 20:26:55,1/7/2026 20:00:00,Positive,4,"Cheerful, Content, Energetic, Motivated",,Family,Funeral,Socializing
+1/7/2026 21:26:05,1/7/2026 21:00:00,Positive,4,"Cheerful, Content, Energetic, Motivated",Tired,Family,Funeral,Socializing
+1/7/2026 22:22:35,1/7/2026 22:00:00,Very Negative,5,Calm,"Tired, Irritated",Strangers,Home,Chores
+1/7/2026 23:06:15,1/7/2026 23:00:00,Negative,4,Calm,"Stressed, Anxious, Tired, Irritated, Overwhelmed",Family,Home,Chores
+1/8/2026 0:16:09,1/8/2026 0:00:00,Neutral,3,"Calm, Relaxed","Stressed, Anxious, Tired",Alone,Home,Chores
+1/8/2026 1:10:23,1/8/2026 1:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/8/2026 2:05:03,1/8/2026 2:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Alone,Home,Eating
+1/8/2026 3:09:55,1/8/2026 3:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,Chores
+1/8/2026 4:09:24,1/8/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed","Stressed, Tired, Overwhelmed",Alone,Home,Chores
+1/8/2026 5:14:33,1/8/2026 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/8/2026 6:13:13,1/8/2026 6:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,Resting
+1/8/2026 14:51:44,1/8/2026 14:00:00,Negative,3,Calm,"Stressed, Anxious, Tired, Irritated, Overwhelmed",Family,Home,Studying
+1/8/2026 15:06:33,1/8/2026 15:00:00,Neutral,3,Calm,,Family,Home,Studying
+1/8/2026 16:19:22,1/8/2026 16:00:00,Neutral,3,"Calm, Motivated",,Alone,Home,Chores
+1/8/2026 17:34:41,1/8/2026 17:00:00,Neutral,3,Calm,,Alone,Home,Chores
+1/8/2026 18:03:26,1/8/2026 18:00:00,Neutral,3,Calm,,Strangers,Transit,Commuting
+1/8/2026 19:04:21,1/8/2026 19:00:00,Positive,3,"Cheerful, Energetic, Motivated",,Friends,Public Place,Socializing
+1/8/2026 20:20:28,1/8/2026 20:00:00,Positive,4,"Cheerful, Content, Energetic, Motivated",,Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/8/2026 22:34:01,1/8/2026 22:00:00,Positive,4,"Cheerful, Content, Energetic, Motivated","Stressed, Anxious",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/8/2026 23:16:19,1/8/2026 23:00:00,Negative,4,"Energetic, Motivated","Stressed, Anxious, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/9/2026 1:35:38,1/9/2026 0:00:00,Neutral,1,"Energetic, Motivated","Stressed, Anxious, Tired, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/9/2026 1:36:25,1/9/2026 1:00:00,Negative,3,,"Stressed, Tired, Irritated, Overwhelmed",Family,Funeral,Resting
+1/9/2026 2:39:50,1/9/2026 2:00:00,Neutral,3,Calm,"Stressed, Tired, Overwhelmed",Alone,Home,Chores
+1/9/2026 3:20:52,1/9/2026 3:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,Resting
+1/9/2026 4:11:38,1/9/2026 4:00:00,Negative,4,,"Stressed, Tired, Overwhelmed",Alone,Home,Studying
+1/9/2026 5:10:00,1/9/2026 5:00:00,Neutral,3,Calm,"Stressed, Tired, Overwhelmed",Alone,Home,Studying
+1/9/2026 6:22:39,1/9/2026 6:00:00,Neutral,3,Calm,"Tired, Overwhelmed",Alone,Home,Studying
+1/9/2026 7:03:49,1/9/2026 7:00:00,Neutral,3,Calm,"Tired, Overwhelmed",Family,Home,Studying
+1/9/2026 8:11:58,1/9/2026 8:00:00,Positive,4,"Cheerful, Content, Motivated","Tired, Overwhelmed",Alone,Home,Chores
+1/9/2026 17:13:48,1/9/2026 17:00:00,Neutral,3,"Calm, Motivated",Overwhelmed,Alone,Home,Chores
+1/9/2026 18:44:14,1/9/2026 18:00:00,Negative,4,Calm,"Stressed, Anxious, Tired, Irritated, Overwhelmed",Alone,Home,Chores
+1/9/2026 19:22:45,1/9/2026 19:00:00,Negative,3,Calm,"Sad, Tired, Irritated, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+1/9/2026 20:39:27,1/9/2026 20:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Eating
+1/9/2026 21:02:38,1/9/2026 21:00:00,Neutral,1,Calm,Anxious,Alone,Home,"Entertainment (games, videos, etc.)"
+1/9/2026 22:09:49,1/9/2026 22:00:00,Positive,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/9/2026 23:21:42,1/9/2026 23:00:00,Neutral,2,Calm,,Family,Home,Chores
+1/10/2026 0:47:40,1/10/2026 0:00:00,Neutral,2,Calm,Tired,Alone,Home,"Entertainment (games, videos, etc.)"
+1/10/2026 2:28:50,1/10/2026 1:00:00,Negative,4,,"Tired, Irritated",Family,Relative's Home,Chores
+1/10/2026 2:29:31,1/10/2026 2:00:00,Positive,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/10/2026 3:42:50,1/10/2026 3:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/10/2026 4:39:10,1/10/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/10/2026 5:14:51,1/10/2026 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/10/2026 6:01:33,1/10/2026 6:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/10/2026 7:16:50,1/10/2026 7:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,Resting
+1/10/2026 14:05:28,1/10/2026 14:00:00,Very Negative,5,Calm,"Stressed, Anxious, Irritated, Overwhelmed",Family,Home,Deactivating Social Media Account
+1/10/2026 15:08:59,1/10/2026 15:00:00,Negative,4,Calm,"Stressed, Anxious, Irritated, Overwhelmed",Family,Home,Adding New Gmail Address
+1/10/2026 16:06:23,1/10/2026 16:00:00,Neutral,1,Calm,"Anxious, Irritated",Family,Home,Making File Backup
+1/10/2026 17:34:34,1/10/2026 17:00:00,Negative,4,,"Stressed, Anxious, Overwhelmed",Family,Funeral,Chores
+1/10/2026 18:01:07,1/10/2026 18:00:00,Negative,2,Calm,"Anxious, Overwhelmed",Family,Funeral,Chores
+1/10/2026 19:13:07,1/10/2026 19:00:00,Negative,3,,"Stressed, Anxious, Overwhelmed",Family,Funeral,Chores
+1/10/2026 20:37:50,1/10/2026 20:00:00,Neutral,3,"Calm, Motivated",,Family,Funeral,Mourning
+1/10/2026 21:10:14,1/10/2026 21:00:00,Negative,4,,"Sad, Tired, Overwhelmed",Family,Funeral,Mourning
+1/10/2026 22:30:34,1/10/2026 22:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Family,Funeral,Socializing
+1/10/2026 23:37:01,1/10/2026 23:00:00,Positive,3,"Cheerful, Calm",Tired,Family,Funeral,Chores
+1/11/2026 3:23:32,1/11/2026 0:00:00,Neutral,5,Content,"Sad, Tired, Overwhelmed",Family,Funeral,Socializing
+1/11/2026 3:24:04,1/11/2026 1:00:00,Negative,4,,"Stressed, Tired, Overwhelmed",Family,Funeral,Socializing
+1/11/2026 3:24:38,1/11/2026 2:00:00,Neutral,5,"Calm, Relaxed","Tired, Overwhelmed",Family,Funeral,Resting
+1/11/2026 3:25:19,1/11/2026 3:00:00,Neutral,3,Relaxed,Tired,Family,Funeral,"Entertainment (games, videos, etc.)"
+1/11/2026 4:13:34,1/11/2026 4:00:00,Neutral,3,"Calm, Content",Tired,Alone,Home,"Entertainment (games, videos, etc.)"
+1/11/2026 5:50:34,1/11/2026 5:00:00,Neutral,3,Calm,,Alone,Home,Chores
+1/11/2026 6:12:24,1/11/2026 6:00:00,Neutral,3,Calm,Tired,Alone,Home,Resting
+1/11/2026 8:03:32,1/11/2026 8:00:00,Neutral,3,Calm,Irritated,Family,Home,Chores
+1/11/2026 9:37:39,1/11/2026 9:00:00,Very Negative,5,,"Stressed, Anxious, Irritated, Overwhelmed",Family,Funeral,Chores
+1/11/2026 10:33:56,1/11/2026 10:00:00,Very Negative,5,,Sad,Family,Transit,Guiding the Funeral
+1/11/2026 11:03:20,1/11/2026 11:00:00,Negative,4,,"Sad, Tired",Family,Transit,Guiding the Funeral
+1/11/2026 12:12:59,1/11/2026 12:00:00,Negative,4,Calm,"Sad, Tired",Family,Cemetery,Mourning
+1/11/2026 13:10:06,1/11/2026 13:00:00,Positive,3,"Calm, Content","Sad, Tired",Family,Cemetery,Socializing
+1/11/2026 14:54:05,1/11/2026 14:00:00,Negative,3,"Calm, Relaxed",Tired,Family,Home,Resting
+1/11/2026 15:05:56,1/11/2026 15:00:00,Neutral,3,"Calm, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+1/12/2026 0:37:07,1/12/2026 0:00:00,Neutral,1,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/12/2026 1:29:08,1/12/2026 1:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,Eating
+1/12/2026 2:00:44,1/12/2026 2:00:00,Positive,4,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/12/2026 3:16:08,1/12/2026 3:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/12/2026 4:09:53,1/12/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/12/2026 5:08:23,1/12/2026 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Resting
+1/12/2026 15:29:12,1/12/2026 15:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Eating
+1/12/2026 16:22:15,1/12/2026 16:00:00,Neutral,3,"Calm, Motivated",,Family,Home,Chores
+1/12/2026 17:30:59,1/12/2026 17:00:00,Neutral,1,"Cheerful, Calm, Motivated",,Classmates,School,Socializing
+1/13/2026 2:54:48,1/12/2026 18:00:00,Very Positive,5,"Cheerful, Calm, Content, Energetic, Motivated, Relaxed",,Classmates,School,Socializing
+1/13/2026 2:56:14,1/12/2026 19:00:00,Positive,4,"Cheerful, Calm, Content, Energetic, Motivated",,Classmates,School,Socializing
+1/13/2026 2:57:08,1/12/2026 20:00:00,Positive,4,"Cheerful, Calm, Content, Energetic, Motivated","Stressed, Anxious",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/13/2026 2:59:38,1/12/2026 21:00:00,Negative,4,"Energetic, Motivated","Stressed, Anxious, Tired, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/13/2026 3:01:08,1/12/2026 22:00:00,Positive,3,"Cheerful, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/13/2026 3:02:28,1/12/2026 23:00:00,Positive,4,"Cheerful, Energetic, Motivated","Stressed, Anxious, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/13/2026 3:03:23,1/13/2026 0:00:00,Very Negative,5,,"Stressed, Anxious, Tired, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/13/2026 3:04:26,1/13/2026 1:00:00,Very Negative,5,"Energetic, Motivated","Stressed, Anxious, Sad, Tired, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/13/2026 3:05:42,1/13/2026 2:00:00,Positive,4,"Cheerful, Content, Motivated","Stressed, Anxious, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/13/2026 3:07:06,1/13/2026 3:00:00,Positive,2,"Calm, Content, Relaxed",Tired,Family,Home,Eating
+1/13/2026 4:09:17,1/13/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+1/13/2026 5:06:10,1/13/2026 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/13/2026 6:05:53,1/13/2026 6:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/13/2026 7:34:38,1/13/2026 7:00:00,Neutral,5,"Calm, Content, Relaxed",,Family,Home,Resting
+1/13/2026 8:02:57,1/13/2026 8:00:00,Negative,2,Calm,Irritated,Alone,Public Place,Chores
+1/13/2026 21:09:55,1/13/2026 21:00:00,Negative,2,Calm,Irritated,Family,Home,Chores
+1/13/2026 22:21:30,1/13/2026 22:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/13/2026 23:01:47,1/13/2026 23:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/14/2026 0:51:30,1/14/2026 0:00:00,Neutral,3,"Content, Relaxed",,Family,Home,Resting
+1/14/2026 1:09:53,1/14/2026 1:00:00,Neutral,1,Relaxed,Irritated,Family,Home,"Entertainment (games, videos, etc.)"
+1/14/2026 2:16:09,1/14/2026 2:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/14/2026 3:25:04,1/14/2026 3:00:00,Neutral,3,"Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/14/2026 4:06:55,1/14/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/14/2026 5:03:10,1/14/2026 5:00:00,Positive,4,"Cheerful, Content, Motivated, Relaxed",Anxious,Family,Home,"Entertainment (games, videos, etc.)"
+1/14/2026 6:01:01,1/14/2026 6:00:00,Positive,3,"Cheerful, Content, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/14/2026 15:43:39,1/14/2026 15:00:00,Positive,3,"Cheerful, Energetic, Motivated",,Family,Home,Chores
+1/14/2026 16:49:44,1/14/2026 16:00:00,Negative,4,Calm,"Stressed, Anxious, Irritated, Overwhelmed",Family,Home,Studying
+1/14/2026 17:15:26,1/14/2026 17:00:00,Negative,4,,"Stressed, Anxious, Irritated, Overwhelmed",Family,Home,Studying
+1/14/2026 18:11:34,1/14/2026 18:00:00,Very Negative,5,,"Irritated, Overwhelmed",Alone,Transit,Commuting
+1/14/2026 19:20:00,1/14/2026 19:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",,Friends,Public Place,Socializing
+1/14/2026 20:40:14,1/14/2026 20:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",,Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/14/2026 21:36:00,1/14/2026 21:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",,Friends,Public Place,Socializing
+1/14/2026 22:19:22,1/14/2026 22:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated",,Friends,Friend’s Condo,Socializing
+1/14/2026 23:41:07,1/14/2026 23:00:00,Positive,2,"Cheerful, Content, Motivated",Tired,Friends,Public Place,Socializing
+1/15/2026 0:32:53,1/15/2026 0:00:00,Neutral,2,Calm,Tired,Family,Home,Chores
+1/15/2026 1:38:16,1/15/2026 1:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/15/2026 2:08:01,1/15/2026 2:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/15/2026 3:02:52,1/15/2026 3:00:00,Negative,3,Calm,"Anxious, Irritated",Family,Home,Retrieving Compromised Facebook Account
+1/15/2026 4:09:56,1/15/2026 4:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,Retrieved Compromised Facebook Account
+1/15/2026 5:28:03,1/15/2026 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/15/2026 6:38:12,1/15/2026 6:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Resting
+1/15/2026 16:56:38,1/15/2026 16:00:00,Neutral,2,,Tired,Alone,Home,Chores
+1/15/2026 17:08:23,1/15/2026 17:00:00,Negative,4,Calm,Irritated,Alone,Transit,Commuting
+1/15/2026 18:22:30,1/15/2026 18:00:00,Positive,3,"Cheerful, Motivated, Relaxed",,Classmates,School,Studying
+1/15/2026 19:07:30,1/15/2026 19:00:00,Positive,4,"Cheerful, Content, Energetic, Motivated",,Classmates,School,Studying
+1/15/2026 20:03:50,1/15/2026 20:00:00,Neutral,3,"Calm, Motivated",Tired,Friends,Public Place,Shopping
+1/16/2026 1:18:58,1/15/2026 21:00:00,Very Positive,3,"Calm, Content, Energetic, Motivated, Relaxed",,Friends,Public Place,Eating
+1/16/2026 1:20:50,1/15/2026 22:00:00,Positive,4,"Cheerful, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/16/2026 1:21:47,1/15/2026 23:00:00,Positive,2,"Content, Energetic, Motivated","Stressed, Anxious, Tired, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/16/2026 1:22:55,1/16/2026 0:00:00,Very Positive,5,"Cheerful, Calm, Content, Energetic, Motivated","Stressed, Anxious",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/16/2026 1:24:00,1/16/2026 1:00:00,Positive,2,"Calm, Content, Relaxed","Tired, Overwhelmed",Strangers,Transit,Commuting
+1/16/2026 3:14:56,1/16/2026 2:00:00,Neutral,3,"Calm, Content, Relaxed",Tired,Family,Home,Chores
+1/16/2026 3:16:23,1/16/2026 3:00:00,Neutral,3,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+1/16/2026 4:08:56,1/16/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+1/16/2026 8:13:58,1/16/2026 8:00:00,Neutral,1,"Calm, Relaxed",Tired,Alone,Home,"Entertainment (games, videos, etc.)"
+1/16/2026 9:26:17,1/16/2026 9:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Alone,Home,Eating
+1/16/2026 10:14:12,1/16/2026 10:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/16/2026 11:01:46,1/16/2026 11:00:00,Negative,2,"Calm, Relaxed",Anxious,Alone,Home,Studying
+1/16/2026 13:01:24,1/16/2026 12:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/16/2026 13:02:07,1/16/2026 13:00:00,Negative,3,Calm,"Tired, Irritated",Alone,Public Place,Chores
+1/16/2026 14:16:53,1/16/2026 14:00:00,Positive,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/16/2026 15:10:43,1/16/2026 15:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/16/2026 22:03:59,1/16/2026 22:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Resting
+1/16/2026 23:00:51,1/16/2026 23:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/17/2026 0:15:55,1/17/2026 0:00:00,Positive,3,"Calm, Content, Relaxed",,Family,Home,Eating
+1/17/2026 1:01:31,1/17/2026 1:00:00,Positive,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/17/2026 2:40:03,1/17/2026 2:00:00,Positive,2,"Cheerful, Calm, Content, Relaxed",,Family,Home,Eating
+1/17/2026 3:06:29,1/17/2026 3:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,Eating
+1/17/2026 4:20:56,1/17/2026 4:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/17/2026 5:05:13,1/17/2026 5:00:00,Neutral,1,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/17/2026 6:22:25,1/17/2026 6:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/17/2026 7:02:46,1/17/2026 7:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/17/2026 8:07:22,1/17/2026 8:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/17/2026 9:02:39,1/17/2026 9:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/17/2026 23:01:48,1/17/2026 23:00:00,Neutral,3,Calm,"Stressed, Anxious, Irritated, Overwhelmed",Family,Home,Socializing
+1/18/2026 0:06:00,1/18/2026 0:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Family,Home,Eating
+1/18/2026 1:06:26,1/18/2026 1:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 2:53:52,1/18/2026 2:00:00,Positive,4,"Calm, Content, Relaxed",,Family,Home,Eating
+1/18/2026 3:13:31,1/18/2026 3:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 4:03:50,1/18/2026 4:00:00,Positive,3,"Cheerful, Calm, Content, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 5:02:10,1/18/2026 5:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 6:08:08,1/18/2026 6:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 7:09:02,1/18/2026 7:00:00,Neutral,5,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 8:22:27,1/18/2026 8:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,Eating
+1/18/2026 9:18:15,1/18/2026 9:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 10:02:42,1/18/2026 10:00:00,Very Positive,5,"Cheerful, Calm, Content, Motivated",Anxious,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 11:31:16,1/18/2026 11:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 12:19:15,1/18/2026 0:00:00,Neutral,3,"Calm, Relaxed",Irritated,Family,Home,Socializing
+1/18/2026 13:00:24,1/18/2026 13:00:00,Neutral,3,Calm,Irritated,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 14:50:36,1/18/2026 14:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/18/2026 15:16:58,1/18/2026 15:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Eating
+1/19/2026 1:41:36,1/19/2026 1:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/19/2026 2:20:46,1/19/2026 2:00:00,Positive,2,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/19/2026 3:02:09,1/19/2026 3:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/19/2026 4:16:39,1/19/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Alone,Public Place,Shopping
+1/19/2026 5:26:09,1/19/2026 5:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/19/2026 6:17:40,1/19/2026 6:00:00,Neutral,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/19/2026 7:34:35,1/19/2026 7:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/19/2026 8:15:41,1/19/2026 8:00:00,Neutral,3,"Calm, Content",,Family,Home,"Entertainment (games, videos, etc.)"
+1/19/2026 9:06:44,1/19/2026 9:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Resting
+1/19/2026 16:51:14,1/19/2026 16:00:00,Neutral,3,Calm,,Family,Home,Chores
+1/19/2026 17:09:57,1/19/2026 17:00:00,Neutral,3,Calm,,Strangers,Transit,Commuting
+1/19/2026 18:08:12,1/19/2026 18:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Classmates,School,Studying
+1/19/2026 19:09:21,1/19/2026 19:00:00,Positive,3,"Cheerful, Energetic, Motivated",,Friends,Public Place,Eating
+1/20/2026 3:34:40,1/19/2026 20:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/20/2026 3:38:57,1/19/2026 21:00:00,Positive,4,"Cheerful, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/20/2026 3:39:41,1/19/2026 22:00:00,Negative,4,,"Stressed, Anxious, Tired, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/20/2026 3:40:15,1/19/2026 23:00:00,Negative,4,,"Stressed, Anxious, Tired, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/20/2026 3:40:49,1/20/2026 0:00:00,Very Negative,5,,"Stressed, Anxious, Sad, Tired, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/20/2026 3:41:23,1/20/2026 1:00:00,Negative,2,Calm,"Tired, Irritated, Overwhelmed",Strangers,Transit,Commuting
+1/20/2026 3:42:32,1/20/2026 2:00:00,Negative,4,Calm,"Tired, Irritated, Overwhelmed",Alone,Relative's Home,Chores
+1/20/2026 3:43:01,1/20/2026 3:00:00,Neutral,3,"Calm, Relaxed",Tired,Family,Home,Eating
+1/20/2026 4:13:33,1/20/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",Tired,Family,Home,"Entertainment (games, videos, etc.)"
+1/20/2026 5:08:02,1/20/2026 5:00:00,Positive,2,"Cheerful, Calm, Content, Relaxed",,Family,Home,Resting
+1/20/2026 12:01:02,1/20/2026 12:00:00,Negative,4,,"Irritated, Overwhelmed",Family,Home,Chores
+1/20/2026 13:26:35,1/30/2026 13:00:00,Neutral,3,"Calm, Content, Relaxed",Irritated,Alone,Home,Chores
+1/20/2026 14:14:56,1/20/2026 14:00:00,Positive,4,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/20/2026 15:00:44,1/20/2026 15:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/20/2026 16:27:47,1/20/2026 16:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/20/2026 17:17:55,1/20/2026 17:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/20/2026 18:02:57,1/20/2026 18:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,Resting
+1/21/2026 2:00:37,1/21/2026 2:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 3:17:18,1/21/2026 3:00:00,Positive,3,"Calm, Content, Relaxed",,Family,Home,Eating
+1/21/2026 4:01:31,1/21/2026 4:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 5:04:56,1/21/2026 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 6:07:23,1/21/2026 6:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 7:44:43,1/21/2026 7:00:00,Positive,3,"Cheerful, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 8:09:09,1/21/2026 8:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 9:44:43,1/21/2026 9:00:00,Positive,4,"Cheerful, Content, Relaxed",,Family,Home,Eating
+1/21/2026 10:04:50,1/21/2026 10:00:00,Positive,3,"Cheerful, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 11:16:21,1/21/2026 11:00:00,Positive,4,"Cheerful, Content, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 12:34:35,1/21/2026 12:00:00,Positive,4,"Cheerful, Content, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 13:46:49,1/21/2026 13:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 14:14:19,1/21/2026 14:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Resting
+1/21/2026 15:02:07,1/21/2026 15:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/21/2026 16:05:26,1/21/2026 16:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Resting
+1/22/2026 1:45:56,1/22/2026 1:00:00,Negative,5,,"Sad, Irritated",Family,Home,"Entertainment (games, videos, etc.)"
+1/22/2026 2:02:48,1/22/2026 2:00:00,Negative,3,,"Sad, Irritated",Family,Home,Tending to Broken Charger Cord
+1/22/2026 3:03:49,1/22/2026 3:00:00,Neutral,3,"Calm, Relaxed",Sad,Family,Home,"Entertainment (games, videos, etc.)"
+1/22/2026 4:01:26,1/22/2026 4:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/22/2026 5:23:30,1/22/2026 5:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/22/2026 6:47:33,1/22/2026 6:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/22/2026 7:20:43,1/22/2026 7:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/22/2026 8:04:44,1/22/2026 8:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/22/2026 9:12:25,1/22/2026 9:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,Eating
+1/22/2026 10:02:29,1/22/2026 10:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/22/2026 11:43:16,1/22/2026 11:00:00,Neutral,3,Calm,,Family,Home,Chores
+1/22/2026 12:35:16,1/22/2026 12:00:00,Neutral,3,"Calm, Content, Motivated",,Alone,Home,Chores
+1/22/2026 14:29:04,1/22/2026 13:00:00,Neutral,3,Motivated,,Alone,Home,Chores
+1/22/2026 14:29:31,1/22/2026 14:00:00,Neutral,2,Motivated,,Alone,Home,Chores
+1/22/2026 15:04:55,1/22/2026 15:00:00,Neutral,3,"Calm, Motivated, Relaxed",,Alone,Home,Resting
+1/22/2026 16:06:12,1/22/2026 16:00:00,Neutral,3,"Cheerful, Calm, Content, Motivated",,Strangers,Transit,Commuting
+1/22/2026 17:01:05,1/22/2026 17:00:00,Neutral,3,"Calm, Content, Motivated, Relaxed",,Strangers,Public Place,Eating
+1/22/2026 18:02:48,1/22/2026 18:00:00,Positive,4,"Cheerful, Content, Energetic, Motivated",,Classmates,Public Place,Socializing
+1/23/2026 1:43:45,1/22/2026 19:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Classmates,School,Socializing
+1/23/2026 1:44:29,1/22/2026 20:00:00,Positive,3,"Cheerful, Calm, Energetic, Motivated, Relaxed",,Classmates,School,Studying
+1/23/2026 1:45:30,1/22/2026 21:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Friends,School,Socializing
+1/23/2026 1:46:18,1/22/2026 22:00:00,Positive,5,"Cheerful, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/23/2026 1:47:07,1/22/2026 23:00:00,Positive,4,"Cheerful, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/23/2026 1:48:06,1/23/2026 0:00:00,Negative,4,"Calm, Energetic, Motivated","Stressed, Anxious, Tired, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/23/2026 1:48:48,1/23/2026 1:00:00,Very Negative,5,,"Tired, Irritated, Overwhelmed",Alone,Relative's Home,Chores
+1/23/2026 12:03:01,1/23/2026 12:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Eating
+1/23/2026 13:10:26,1/23/2026 13:00:00,Neutral,1,Calm,Irritated,Alone,Relative's Home,Chores
+1/23/2026 14:08:21,1/23/2026 14:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/23/2026 15:54:26,1/23/2026 15:00:00,Very Negative,5,,"Anxious, Sad",Family,Home,Tending to sick kitten
+1/23/2026 16:52:57,1/23/2026 16:00:00,Very Negative,5,,"Anxious, Sad",Family,Home,Tending to sick kitten
+1/23/2026 17:24:42,1/23/2026 17:00:00,Negative,3,Calm,"Anxious, Sad",Family,Home,Tending to sick kitten
+1/23/2026 18:43:43,1/23/2026 18:00:00,Neutral,3,"Calm, Relaxed","Anxious, Sad",Family,Home,"Entertainment (games, videos, etc.)"
+1/23/2026 19:30:27,1/23/2026 19:00:00,Neutral,3,"Calm, Relaxed",Sad,Family,Home,"Entertainment (games, videos, etc.)"
+1/23/2026 20:11:30,1/23/2026 20:00:00,Neutral,3,"Calm, Relaxed",Sad,Family,Home,"Entertainment (games, videos, etc.)"
+1/24/2026 1:04:08,1/24/2026 0:00:00,Neutral,1,,Irritated,Alone,Relative’s Home,Chores
+1/24/2026 1:04:46,1/24/2026 1:00:00,Positive,1,"Cheerful, Content, Motivated",,Family,Home,Eating
+1/24/2026 2:04:30,1/24/2026 2:00:00,Positive,4,"Calm, Content, Relaxed",,Family,Home,Eating
+1/24/2026 3:06:24,1/24/2026 3:00:00,Neutral,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/24/2026 4:44:19,1/24/2026 4:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Resting
+1/24/2026 5:25:59,1/24/2026 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/24/2026 6:01:40,1/24/2026 6:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+1/24/2026 12:01:39,1/24/2026 12:00:00,Very Negative,5,,"Stressed, Anxious, Sad",Family,Home,Resting
+1/24/2026 13:27:12,1/24/2026 13:00:00,Neutral,3,Calm,,Family,Home,Eating
+1/24/2026 14:02:19,1/24/2026 14:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/24/2026 15:32:30,1/24/2026 15:00:00,Neutral,3,"Calm, Relaxed",Anxious,Family,Home,"Entertainment (games, videos, etc.)"
+1/24/2026 16:19:51,1/24/2026 16:00:00,Neutral,3,"Calm, Relaxed",Anxious,Family,Home,"Entertainment (games, videos, etc.)"
+1/24/2026 17:05:43,1/24/2026 17:00:00,Neutral,3,Calm,Anxious,Family,Home,"Entertainment (games, videos, etc.)"
+1/24/2026 18:00:41,1/24/2026 18:00:00,Neutral,3,Calm,,Family,Home,Chores
+1/25/2026 0:19:30,1/25/2026 0:00:00,Negative,4,"Calm, Relaxed","Sad, Irritated",Family,Home,Chores
+1/25/2026 1:41:30,1/25/2026 1:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/25/2026 2:14:57,1/25/2026 2:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/25/2026 3:25:10,1/25/2026 3:00:00,Negative,3,,Irritated,Family,Home,"Entertainment (games, videos, etc.)"
+1/25/2026 5:09:22,1/25/2026 4:00:00,Neutral,3,Relaxed,,Family,Home,Resting
+1/25/2026 5:13:13,1/25/2026 5:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/25/2026 6:04:53,1/25/2026 6:00:00,Neutral,3,"Calm, Motivated",,Alone,Public Place,Shopping
+1/25/2026 7:36:56,1/25/2026 7:00:00,Positive,4,"Cheerful, Energetic",,Family,Home,"Entertainment (games, videos, etc.)"
+1/25/2026 12:43:04,1/25/2026 12:00:00,Neutral,3,,Irritated,Alone,Relative’s Home,Chores
+1/25/2026 13:15:54,1/25/2026 13:00:00,Neutral,3,"Calm, Relaxed",Irritated,Family,Home,Chores
+1/25/2026 14:25:39,1/25/2026 14:00:00,Positive,3,"Calm, Motivated, Relaxed",,Family,Home,Studying
+1/25/2026 16:00:21,1/25/2026 15:00:00,Neutral,3,Calm,"Stressed, Anxious",Family,Home,Studying
+1/25/2026 16:01:24,1/25/2026 16:00:00,Positive,3,"Cheerful, Calm, Content, Relaxed",,Family,Home,Studying
+1/25/2026 17:04:07,1/25/2026 17:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/25/2026 18:26:34,1/25/2026 18:00:00,Positive,2,"Calm, Content, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/25/2026 19:08:26,1/25/2026 19:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Resting
+1/26/2026 0:22:56,1/26/2026 0:00:00,Very Negative,5,"Calm, Motivated","Stressed, Anxious, Sad, Irritated",Family,Home,Socializing
+1/26/2026 1:03:37,1/26/2026 1:00:00,Neutral,1,"Calm, Relaxed","Sad, Overwhelmed",Family,Home,Resting
+1/26/2026 2:08:04,1/26/2026 2:00:00,Negative,3,"Calm, Relaxed",Sad,Family,Home,Eating
+1/26/2026 3:00:40,1/26/2026 3:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/26/2026 4:02:19,1/26/2026 4:00:00,Positive,3,"Calm, Content, Motivated, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/26/2026 5:07:29,1/26/2026 5:00:00,Neutral,2,"Calm, Content, Relaxed",,Family,Home,Resting
+1/26/2026 6:24:42,1/26/2026 6:00:00,Positive,4,"Calm, Content, Relaxed",,Family,Home,Resting
+1/26/2026 12:08:45,1/26/2026 12:00:00,Neutral,3,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/26/2026 13:05:14,1/26/2026 13:00:00,Positive,4,Motivated,,Family,Home,Resting
+1/26/2026 14:14:25,1/26/2026 14:00:00,Neutral,3,"Calm, Content, Motivated",,Family,Home,Chores
+1/26/2026 15:30:35,1/26/2026 15:00:00,Neutral,3,"Energetic, Motivated",,Family,Home,Chores
+1/26/2026 16:00:39,1/26/2026 16:00:00,Positive,3,"Energetic, Motivated",,Strangers,Transit,Commuting
+1/26/2026 17:24:51,1/26/2026 17:00:00,Neutral,3,Calm,,Classmates,School,Studying
+1/26/2026 18:02:31,1/26/2026 18:00:00,Negative,4,"Calm, Motivated","Stressed, Anxious, Overwhelmed",Classmates,School,Studying
+1/26/2026 19:08:36,1/26/2026 19:00:00,Positive,4,"Cheerful, Energetic, Motivated",,Friends,Public Place,Eating
+1/26/2026 20:11:50,1/26/2026 20:00:00,Very Positive,5,"Cheerful, Energetic, Relaxed",,Friends,Public Place,Socializing
+1/26/2026 21:13:52,1/26/2026 21:00:00,Positive,3,"Cheerful, Content, Motivated",Tired,Friends,Public Place,Socializing
+1/27/2026 2:53:39,1/26/2026 22:00:00,Very Positive,3,"Cheerful, Content, Energetic, Motivated",,Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/27/2026 2:54:23,1/26/2026 23:00:00,Very Positive,4,"Cheerful, Content, Energetic, Motivated","Stressed, Anxious, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/27/2026 2:55:53,1/27/2026 0:00:00,Positive,3,"Cheerful, Content, Energetic, Motivated","Stressed, Anxious, Irritated, Overwhelmed",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/27/2026 2:56:22,1/27/2026 1:00:00,Neutral,3,"Calm, Content",Tired,Strangers,Transit,Commuting
+1/27/2026 2:56:53,1/27/2026 2:00:00,Neutral,2,"Calm, Content, Relaxed",Tired,Family,Home,Resting
+1/27/2026 3:00:35,1/27/2026 3:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Eating
+1/27/2026 4:01:03,1/27/2026 4:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/27/2026 5:19:34,1/27/2026 5:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Resting
+1/27/2026 6:12:50,1/27/2026 6:00:00,Positive,4,"Calm, Content, Relaxed",Tired,Family,Home,Resting
+1/27/2026 13:05:05,1/27/2026 13:00:00,Negative,1,Calm,"Anxious, Overwhelmed",Alone,Home,Studying
+1/27/2026 14:51:16,1/27/2026 14:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Studying
+1/27/2026 15:24:56,1/27/2026 15:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Chores
+1/27/2026 16:39:00,1/27/2026 16:00:00,Positive,4,"Calm, Motivated",,Family,Home,Studying
+1/27/2026 17:05:55,1/27/2026 17:00:00,Negative,1,Calm,"Stressed, Anxious",Family,Home,Studying
+1/27/2026 18:09:29,1/27/2026 18:00:00,Negative,1,Calm,"Stressed, Anxious",Family,Home,Studying
+1/27/2026 19:15:46,1/27/2026 19:00:00,Neutral,4,Calm,"Stressed, Anxious",Family,Home,Studying
+1/27/2026 21:00:40,1/27/2026 20:00:00,Neutral,2,Calm,"Stressed, Anxious",Family,Home,Studying
+1/27/2026 21:01:24,1/27/2026 21:00:00,Neutral,2,Calm,"Stressed, Anxious",Family,Home,Studying
+1/27/2026 22:06:16,1/27/2026 22:00:00,Neutral,2,Calm,"Stressed, Anxious",Family,Home,Studying
+1/27/2026 23:09:30,1/27/2026 23:00:00,Neutral,2,Calm,"Stressed, Anxious",Family,Home,Studying
+1/28/2026 0:16:08,1/28/2026 0:00:00,Neutral,3,Calm,"Stressed, Anxious",Family,Home,Studying
+1/28/2026 1:38:03,1/28/2026 1:00:00,Positive,2,"Calm, Content, Motivated","Stressed, Tired",Family,Home,Studying
+1/28/2026 5:20:14,1/28/2026 5:00:00,Positive,1,"Calm, Content, Relaxed",,Family,Home,Eating
+1/28/2026 6:09:14,1/28/2026 6:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/28/2026 7:41:23,1/28/2026 7:00:00,Neutral,2,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/28/2026 9:01:06,1/28/2026 8:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,Eating
+1/28/2026 9:01:29,1/28/2026 9:00:00,Neutral,3,"Calm, Content, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/28/2026 10:26:32,1/28/2026 10:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Resting
+1/28/2026 15:37:19,1/28/2026 15:00:00,Positive,4,"Cheerful, Content, Motivated, Relaxed",,Alone,Home,Studying
+1/28/2026 16:09:47,1/28/2026 16:00:00,Positive,3,"Cheerful, Calm, Motivated",,Strangers,Public Place,Shopping
+1/28/2026 17:16:06,1/28/2026 17:00:00,Neutral,2,"Calm, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/28/2026 18:06:02,1/28/2026 18:00:00,Neutral,3,Calm,Anxious,Alone,Home,"Entertainment (games, videos, etc.)"
+1/28/2026 19:56:13,1/28/2026 19:00:00,Neutral,3,Calm,,Alone,Home,"Entertainment (games, videos, etc.)"
+1/28/2026 20:00:51,1/28/2026 20:00:00,Neutral,1,"Calm, Motivated",Anxious,Alone,Home,Resting
+1/28/2026 21:17:49,1/28/2026 21:00:00,Neutral,3,Calm,Anxious,Alone,Home,Studying
+1/28/2026 22:10:04,1/28/2026 22:00:00,Neutral,2,Calm,Anxious,Alone,Home,Studying
+1/28/2026 23:45:16,1/28/2026 23:00:00,Negative,5,Calm,"Stressed, Anxious, Irritated, Overwhelmed",Strangers,Home,Chores
+1/29/2026 2:00:29,1/29/2026 0:00:00,Neutral,1,Calm,"Stressed, Anxious, Tired",Strangers,Home,Studying
+1/29/2026 2:01:35,1/29/2026 1:00:00,Neutral,2,Calm,"Stressed, Anxious",Strangers,Home,Studying
+1/29/2026 2:02:09,1/29/2026 2:00:00,Positive,3,"Calm, Content, Relaxed",Tired,Strangers,Home,Studying
+1/29/2026 8:28:17,1/29/2026 8:00:00,Positive,4,"Calm, Motivated",Anxious,Strangers,Home,Chores
+1/29/2026 9:06:28,1/29/2026 9:00:00,Neutral,3,"Calm, Motivated",Anxious,Strangers,Transit,Commuting
+1/29/2026 10:13:58,1/29/2026 10:00:00,Negative,3,Calm,"Anxious, Tired",Classmates,School,Socializing
+1/29/2026 12:10:35,1/29/2026 11:00:00,Neutral,1,"Calm, Motivated",Irritated,Classmates,School,Looking for Internship
+1/29/2026 12:16:55,1/29/2026 12:00:00,Positive,4,"Cheerful, Content, Motivated",Tired,Classmates,School,Looking for Internship
+1/29/2026 16:13:23,1/29/2026 13:00:00,Negative,5,Energetic,"Sad, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/29/2026 16:15:55,1/29/2026 14:00:00,Very Negative,5,Energetic,"Stressed, Sad, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/29/2026 16:17:45,1/29/2026 15:00:00,Negative,3,"Energetic, Motivated","Stressed, Sad, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/29/2026 16:21:39,1/29/2026 16:00:00,Neutral,2,"Calm, Energetic","Stressed, Tired, Irritated, Overwhelmed",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/29/2026 17:15:37,1/29/2026 17:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Friends,Public Place,Socializing
+1/29/2026 18:06:59,1/29/2026 18:00:00,Neutral,3,"Calm, Relaxed",,Classmates,School,Studying
+1/29/2026 19:30:19,1/29/2026 19:00:00,Positive,4,"Cheerful, Calm, Content, Motivated",,Classmates,School,Studying
+1/29/2026 20:33:09,1/29/2026 20:00:00,Positive,5,"Cheerful, Calm, Content, Motivated",Tired,Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/29/2026 21:18:48,1/29/2026 21:00:00,Positive,4,"Cheerful, Calm, Content, Energetic, Motivated",,Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/29/2026 22:29:40,1/29/2026 22:00:00,Very Negative,5,,"Stressed, Sad, Tired, Irritated",Strangers,Public Place,"Entertainment (games, videos, etc.)"
+1/29/2026 23:24:52,1/29/2026 23:00:00,Very Negative,5,Relaxed,"Anxious, Sad, Tired, Irritated",Friends,Public Place,"Entertainment (games, videos, etc.)"
+1/30/2026 0:14:42,1/30/2026 0:00:00,Neutral,2,"Calm, Content, Relaxed",Tired,Strangers,Home,Chores
+1/30/2026 10:42:30,1/30/2026 10:00:00,Positive,4,"Cheerful, Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/30/2026 11:22:10,1/30/2026 11:00:00,Positive,2,"Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/30/2026 17:53:09,1/30/2026 12:00:00,Neutral,5,"Calm, Relaxed",,Alone,Home,Chores
+1/30/2026 17:55:30,1/30/2026 13:00:00,Very Positive,5,"Cheerful, Content, Energetic, Motivated, Relaxed",Anxious,Alone,Home,Resting
+1/30/2026 17:56:27,1/30/2026 14:00:00,Positive,1,"Calm, Motivated",,Strangers,Public Place,Shopping
+1/30/2026 17:57:12,1/30/2026 15:00:00,Very Positive,4,"Cheerful, Calm, Content, Relaxed",,Alone,Home,Eating
+1/30/2026 17:57:50,1/30/2026 16:00:00,Positive,3,"Cheerful, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/30/2026 17:58:22,1/30/2026 17:00:00,Neutral,3,"Cheerful, Calm, Content, Relaxed",,Alone,Home,"Entertainment (games, videos, etc.)"
+1/30/2026 18:02:59,1/30/2026 18:00:00,Neutral,3,,Sad,Family,Home,Chores
+1/30/2026 19:04:41,1/30/2026 19:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,Resting
+1/30/2026 20:02:34,1/30/2026 20:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/31/2026 5:01:10,1/31/2026 5:00:00,Neutral,3,Calm,,Family,Home,Chores
+1/31/2026 12:10:36,1/31/2026 12:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/31/2026 13:07:41,1/31/2026 13:00:00,Positive,2,"Cheerful, Calm, Content, Relaxed","Anxious, Overwhelmed",Family,Home,"Entertainment (games, videos, etc.)"
+1/31/2026 14:30:49,1/31/2026 14:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/31/2026 15:42:51,1/31/2026 15:00:00,Neutral,3,Relaxed,,Family,Home,"Entertainment (games, videos, etc.)"
+1/31/2026 17:09:58,1/31/2026 16:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/31/2026 17:20:57,1/31/2026 17:00:00,Positive,3,"Cheerful, Calm, Energetic, Relaxed",,Friends,Home,Socializing
+1/31/2026 18:04:53,1/31/2026 18:00:00,Negative,3,Calm,"Anxious, Irritated",Family,Home,Studying
+1/31/2026 20:21:47,1/31/2026 19:00:00,Positive,1,"Cheerful, Calm, Content, Relaxed",,Family,Home,Eating
+1/31/2026 20:22:23,1/31/2026 20:00:00,Negative,1,Calm,"Stressed, Irritated",Family,Home,Studying
+1/31/2026 21:06:32,1/31/2026 21:00:00,Negative,3,Calm,"Anxious, Sad",Family,Home,"Entertainment (games, videos, etc.)"
+1/31/2026 22:07:04,1/31/2026 22:00:00,Neutral,3,"Calm, Relaxed",,Family,Home,"Entertainment (games, videos, etc.)"
+1/31/2026 23:41:12,1/31/2026 23:00:00,Neutral,3,Calm,Anxious,Family,Home,"Entertainment (games, videos, etc.)"
